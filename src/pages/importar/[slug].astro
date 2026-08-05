@@ -92,18 +92,99 @@ const softwareSchema = {
 					<a href="https://www.payoneer.com" target="_blank" rel="noopener noreferrer" class="font-medium text-blue-600 hover:underline">Payoneer</a>.
 				</p>
 			</div>
-			<div class="rounded-xl border border-dashed border-slate-300 bg-slate-50 p-4 text-sm text-slate-600">
-				<p class="mb-2">
+			<div class="rounded-xl border border-dashed border-slate-300 bg-slate-50 p-4 text-sm text-slate-600" data-freight-quote>
+				<p class="mb-3">
 					¿Requieres cotización de flete marítimo real para la ruta {caseData.origen} → {caseData.destino}?
 				</p>
-				<button
-					type="button"
-					class="rounded-lg bg-slate-900 px-4 py-2 text-xs font-semibold text-white transition hover:bg-slate-700"
+				<form
+					data-freight-form
+					action="https://formspree.io/f/myegypko"
+					method="POST"
+					class="flex flex-col gap-2"
 				>
-					Solicitar 3 presupuestos de agencias de carga
-				</button>
+					<input type="hidden" name="producto" value={caseData.producto} />
+					<input type="hidden" name="ruta" value={`${caseData.origen} → ${caseData.destino}`} />
+					<input type="hidden" name="hs_code" value={caseData.hs_code} />
+					<label for="freight-nombre" class="sr-only">Nombre completo</label>
+					<input
+						type="text"
+						id="freight-nombre"
+						name="nombre"
+						placeholder="Nombre completo"
+						required
+						class="rounded-lg border border-slate-300 px-3 py-2 text-sm text-slate-900 shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/30"
+					/>
+					<label for="freight-email" class="sr-only">Correo electrónico</label>
+					<input
+						type="email"
+						id="freight-email"
+						name="email"
+						placeholder="Correo electrónico"
+						required
+						class="rounded-lg border border-slate-300 px-3 py-2 text-sm text-slate-900 shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/30"
+					/>
+					<label for="freight-empresa" class="sr-only">Empresa</label>
+					<input
+						type="text"
+						id="freight-empresa"
+						name="empresa"
+						placeholder="Empresa (opcional)"
+						class="rounded-lg border border-slate-300 px-3 py-2 text-sm text-slate-900 shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/30"
+					/>
+					<button
+						type="submit"
+						data-freight-submit
+						class="mt-1 rounded-lg bg-slate-900 px-4 py-2 text-xs font-semibold text-white transition hover:bg-slate-700 disabled:cursor-not-allowed disabled:opacity-60"
+					>
+						Solicitar 3 presupuestos de agencias de carga
+					</button>
+					<p class="hidden text-xs font-medium text-emerald-600" data-freight-success role="status">
+						¡Listo! Recibimos tu solicitud, te contactaremos pronto con las cotizaciones.
+					</p>
+					<p class="hidden text-xs font-medium text-red-600" data-freight-error role="alert">
+						Ocurrió un error al enviar tu solicitud. Intenta nuevamente.
+					</p>
+				</form>
 			</div>
 		</div>
+
+		<script>
+			const freightForm = document.querySelector<HTMLFormElement>('[data-freight-form]');
+			const freightSubmit = freightForm?.querySelector<HTMLButtonElement>('[data-freight-submit]');
+			const freightSuccess = freightForm?.querySelector<HTMLElement>('[data-freight-success]');
+			const freightError = freightForm?.querySelector<HTMLElement>('[data-freight-error]');
+
+			freightForm?.addEventListener('submit', async (event) => {
+				event.preventDefault();
+				if (!freightSubmit) return;
+
+				freightSuccess?.classList.add('hidden');
+				freightError?.classList.add('hidden');
+				freightSubmit.disabled = true;
+				const originalLabel = freightSubmit.textContent;
+				freightSubmit.textContent = 'Enviando…';
+
+				try {
+					const response = await fetch(freightForm.action, {
+						method: 'POST',
+						headers: { Accept: 'application/json' },
+						body: new FormData(freightForm),
+					});
+
+					if (response.ok) {
+						freightForm.reset();
+						freightSuccess?.classList.remove('hidden');
+					} else {
+						freightError?.classList.remove('hidden');
+					}
+				} catch {
+					freightError?.classList.remove('hidden');
+				} finally {
+					freightSubmit.disabled = false;
+					freightSubmit.textContent = originalLabel;
+				}
+			});
+		</script>
 
 		<section aria-labelledby="regulaciones-heading" class="mt-12 rounded-xl border border-amber-200 bg-amber-50 p-6">
 			<h2 id="regulaciones-heading" class="text-2xl font-bold text-slate-900">Regulaciones y Requisitos de Aduana</h2>
