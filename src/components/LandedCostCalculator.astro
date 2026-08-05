@@ -1,0 +1,315 @@
+---
+interface Props {
+	arancel_ad_valorem_pct: number;
+	iva_pct: number;
+	gastos_puerto_usd: number;
+	gastos_despacho_agente_usd: number;
+	flete_estimado_m3_usd: number;
+	moneda?: string;
+}
+
+const {
+	arancel_ad_valorem_pct,
+	iva_pct,
+	gastos_puerto_usd,
+	gastos_despacho_agente_usd,
+	flete_estimado_m3_usd,
+	moneda = 'USD',
+} = Astro.props;
+---
+
+<div
+	class="landed-cost-calculator grid grid-cols-1 gap-6 lg:grid-cols-2"
+	data-landed-cost-calculator
+	data-arancel-pct={arancel_ad_valorem_pct}
+	data-iva-pct={iva_pct}
+	data-puerto-usd={gastos_puerto_usd}
+	data-despacho-usd={gastos_despacho_agente_usd}
+	data-flete-m3-usd={flete_estimado_m3_usd}
+	data-moneda={moneda}
+>
+	<section aria-labelledby="lc-inputs-heading" class="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
+		<h2 id="lc-inputs-heading" class="text-lg font-semibold text-slate-900">Parámetros de tu importación</h2>
+		<p class="mt-1 text-sm text-slate-500">Ajusta los valores y el resultado se recalcula al instante.</p>
+
+		<div class="mt-6 flex flex-col gap-5">
+			<div>
+				<label for="lc-units" class="block text-sm font-medium text-slate-700">Cantidad de Unidades</label>
+				<input
+					type="number"
+					id="lc-units"
+					name="units"
+					data-field="units"
+					value="100"
+					min="1"
+					step="1"
+					inputmode="numeric"
+					class="mt-1.5 w-full rounded-lg border border-slate-300 px-3 py-2 text-slate-900 shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/30"
+				/>
+			</div>
+
+			<div>
+				<label for="lc-fob-price" class="block text-sm font-medium text-slate-700">Precio FOB Unitario (USD)</label>
+				<input
+					type="number"
+					id="lc-fob-price"
+					name="fobPrice"
+					data-field="fob-price"
+					value="50.00"
+					min="0"
+					step="0.01"
+					inputmode="decimal"
+					class="mt-1.5 w-full rounded-lg border border-slate-300 px-3 py-2 text-slate-900 shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/30"
+				/>
+			</div>
+
+			<div>
+				<label for="lc-volume" class="block text-sm font-medium text-slate-700">Volumen Total (m³)</label>
+				<input
+					type="number"
+					id="lc-volume"
+					name="volume"
+					data-field="volume"
+					value="1.5"
+					min="0"
+					step="0.01"
+					inputmode="decimal"
+					class="mt-1.5 w-full rounded-lg border border-slate-300 px-3 py-2 text-slate-900 shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/30"
+				/>
+			</div>
+
+			<div>
+				<label for="lc-insurance-pct" class="block text-sm font-medium text-slate-700">Porcentaje de Seguro Marítimo (%)</label>
+				<input
+					type="number"
+					id="lc-insurance-pct"
+					name="insurancePct"
+					data-field="insurance-pct"
+					value="1.0"
+					min="0"
+					max="100"
+					step="0.1"
+					inputmode="decimal"
+					class="mt-1.5 w-full rounded-lg border border-slate-300 px-3 py-2 text-slate-900 shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/30"
+				/>
+			</div>
+
+			<div>
+				<label for="lc-margin-pct" class="block text-sm font-medium text-slate-700">Margen Comercial Deseado (%)</label>
+				<input
+					type="number"
+					id="lc-margin-pct"
+					name="marginPct"
+					data-field="margin-pct"
+					value="35.0"
+					min="0"
+					max="99.9"
+					step="0.1"
+					inputmode="decimal"
+					class="mt-1.5 w-full rounded-lg border border-slate-300 px-3 py-2 text-slate-900 shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/30"
+				/>
+			</div>
+		</div>
+	</section>
+
+	<section aria-labelledby="lc-results-heading" aria-live="polite" class="flex flex-col gap-4">
+		<h2 id="lc-results-heading" class="sr-only">Resultados del cálculo de costo puesto en bodega</h2>
+
+		<div class="rounded-xl border border-blue-600 bg-blue-600 p-6 text-white shadow-sm">
+			<p class="text-sm font-medium text-blue-100">Costo Unitario Puesto en Bodega</p>
+			<p class="mt-1 text-4xl font-bold tracking-tight" data-output="landed-cost-unitario">$0.00</p>
+			<p class="mt-1 text-xs text-blue-100">Moneda base: {moneda}</p>
+		</div>
+
+		<div class="grid grid-cols-1 gap-4 sm:grid-cols-2">
+			<div class="rounded-xl border border-slate-200 bg-white p-5 shadow-sm">
+				<p class="text-sm font-medium text-slate-500">Costo Total de la Importación</p>
+				<p class="mt-1 text-2xl font-semibold text-slate-900" data-output="landed-cost-total">$0.00</p>
+			</div>
+			<div class="rounded-xl border border-emerald-200 bg-emerald-50 p-5 shadow-sm">
+				<p class="text-sm font-medium text-emerald-700">Precio de Venta Mínimo Sugerido B2B</p>
+				<p class="mt-1 text-2xl font-semibold text-emerald-800" data-output="precio-venta-sugerido">$0.00</p>
+			</div>
+		</div>
+
+		<div class="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
+			<h3 class="text-sm font-semibold text-slate-900">Desglose Financiero</h3>
+			<dl class="mt-3 divide-y divide-slate-100 text-sm">
+				<div class="flex items-center justify-between py-2">
+					<dt class="text-slate-600">Total FOB Productos</dt>
+					<dd class="font-medium text-slate-900" data-output="desglose-fob">$0.00</dd>
+				</div>
+				<div class="flex items-center justify-between py-2">
+					<dt class="text-slate-600">Flete Internacional Estimado</dt>
+					<dd class="font-medium text-slate-900" data-output="desglose-flete">$0.00</dd>
+				</div>
+				<div class="flex items-center justify-between py-2">
+					<dt class="text-slate-600">Seguro CIF</dt>
+					<dd class="font-medium text-slate-900" data-output="desglose-seguro">$0.00</dd>
+				</div>
+				<div class="flex items-center justify-between py-2">
+					<dt class="text-slate-600">Impuesto Ad Valorem</dt>
+					<dd class="font-medium text-slate-900" data-output="desglose-ad-valorem">$0.00</dd>
+				</div>
+				<div class="flex items-center justify-between py-2">
+					<dt class="text-slate-600">IVA Importación</dt>
+					<dd class="font-medium text-slate-900" data-output="desglose-iva">$0.00</dd>
+				</div>
+				<div class="flex items-center justify-between py-2">
+					<dt class="text-slate-600">Gastos Destino (Puerto + Agente)</dt>
+					<dd class="font-medium text-slate-900" data-output="desglose-gastos-destino">$0.00</dd>
+				</div>
+			</dl>
+		</div>
+
+		<div class="rounded-xl border border-slate-200 bg-white p-6 shadow-sm">
+			<h3 class="text-sm font-semibold text-slate-900">Proporción de Costos</h3>
+			<div class="mt-3 flex h-3 w-full overflow-hidden rounded-full bg-slate-100">
+				<div class="h-full bg-blue-500 transition-all duration-300" data-bar="productos" style="width: 0%"></div>
+				<div class="h-full bg-amber-500 transition-all duration-300" data-bar="fletes" style="width: 0%"></div>
+				<div class="h-full bg-rose-500 transition-all duration-300" data-bar="impuestos" style="width: 0%"></div>
+				<div class="h-full bg-slate-300 transition-all duration-300" data-bar="otros" style="width: 0%"></div>
+			</div>
+			<ul class="mt-3 flex flex-wrap gap-x-4 gap-y-1 text-xs text-slate-600">
+				<li class="flex items-center gap-1.5">
+					<span class="h-2 w-2 rounded-full bg-blue-500"></span>
+					Productos <span data-bar-label="productos">0.0%</span>
+				</li>
+				<li class="flex items-center gap-1.5">
+					<span class="h-2 w-2 rounded-full bg-amber-500"></span>
+					Fletes <span data-bar-label="fletes">0.0%</span>
+				</li>
+				<li class="flex items-center gap-1.5">
+					<span class="h-2 w-2 rounded-full bg-rose-500"></span>
+					Impuestos <span data-bar-label="impuestos">0.0%</span>
+				</li>
+				<li class="flex items-center gap-1.5">
+					<span class="h-2 w-2 rounded-full bg-slate-300"></span>
+					Otros (seguro y gastos destino) <span data-bar-label="otros">0.0%</span>
+				</li>
+			</ul>
+		</div>
+	</section>
+</div>
+
+<script>
+	interface LandedCostResult {
+		totalFob: number;
+		totalFlete: number;
+		seguro: number;
+		totalImpuestos: number;
+		adValoremUsd: number;
+		ivaUsd: number;
+		totalGastosDestino: number;
+		totalLandedCost: number;
+		landedCostUnitario: number;
+		precioVentaSugerido: number;
+	}
+
+	const currencyFormatter = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD' });
+
+	function toPositiveNumber(input: HTMLInputElement, fallback = 0): number {
+		const value = Number.parseFloat(input.value);
+		return Number.isFinite(value) && value >= 0 ? value : fallback;
+	}
+
+	function setOutput(root: HTMLElement, field: string, value: string): void {
+		const el = root.querySelector<HTMLElement>(`[data-output="${field}"]`);
+		if (el) el.textContent = value;
+	}
+
+	function setBar(root: HTMLElement, field: string, pct: number): void {
+		const segment = root.querySelector<HTMLElement>(`[data-bar="${field}"]`);
+		const label = root.querySelector<HTMLElement>(`[data-bar-label="${field}"]`);
+		const clamped = Number.isFinite(pct) ? Math.min(100, Math.max(0, pct)) : 0;
+		if (segment) segment.style.width = `${clamped}%`;
+		if (label) label.textContent = `${clamped.toFixed(1)}%`;
+	}
+
+	function initCalculator(root: HTMLElement): void {
+		const arancelPct = Number.parseFloat(root.dataset.arancelPct ?? '0');
+		const ivaPct = Number.parseFloat(root.dataset.ivaPct ?? '0');
+		const puertoUsd = Number.parseFloat(root.dataset.puertoUsd ?? '0');
+		const despachoUsd = Number.parseFloat(root.dataset.despachoUsd ?? '0');
+		const fleteM3Usd = Number.parseFloat(root.dataset.fleteM3Usd ?? '0');
+
+		const unitsInput = root.querySelector<HTMLInputElement>('[data-field="units"]');
+		const fobPriceInput = root.querySelector<HTMLInputElement>('[data-field="fob-price"]');
+		const volumeInput = root.querySelector<HTMLInputElement>('[data-field="volume"]');
+		const insurancePctInput = root.querySelector<HTMLInputElement>('[data-field="insurance-pct"]');
+		const marginPctInput = root.querySelector<HTMLInputElement>('[data-field="margin-pct"]');
+
+		if (!unitsInput || !fobPriceInput || !volumeInput || !insurancePctInput || !marginPctInput) return;
+
+		const inputs = [unitsInput, fobPriceInput, volumeInput, insurancePctInput, marginPctInput];
+
+		function calculate(): LandedCostResult {
+			const units = toPositiveNumber(unitsInput!, 0);
+			const fobPrice = toPositiveNumber(fobPriceInput!, 0);
+			const volume = toPositiveNumber(volumeInput!, 0);
+			const insurancePct = toPositiveNumber(insurancePctInput!, 0);
+			const marginPct = toPositiveNumber(marginPctInput!, 0);
+
+			const totalFob = units * fobPrice;
+			const totalFlete = volume * fleteM3Usd;
+			const seguro = (totalFob + totalFlete) * (insurancePct / 100);
+			const valorCif = totalFob + totalFlete + seguro;
+			const adValoremUsd = valorCif * (arancelPct / 100);
+			const baseIva = valorCif + adValoremUsd;
+			const ivaUsd = baseIva * (ivaPct / 100);
+			const totalImpuestos = adValoremUsd + ivaUsd;
+			const totalGastosDestino = puertoUsd + despachoUsd;
+			const totalLandedCost = valorCif + totalImpuestos + totalGastosDestino;
+			const landedCostUnitario = units > 0 ? totalLandedCost / units : 0;
+			const marginFraction = marginPct / 100;
+			const precioVentaSugerido = marginFraction < 1 ? landedCostUnitario / (1 - marginFraction) : landedCostUnitario;
+
+			return {
+				totalFob,
+				totalFlete,
+				seguro,
+				adValoremUsd,
+				ivaUsd,
+				totalImpuestos,
+				totalGastosDestino,
+				totalLandedCost,
+				landedCostUnitario,
+				precioVentaSugerido,
+			};
+		}
+
+		function render(): void {
+			const r = calculate();
+
+			setOutput(root, 'landed-cost-unitario', currencyFormatter.format(r.landedCostUnitario));
+			setOutput(root, 'landed-cost-total', currencyFormatter.format(r.totalLandedCost));
+			setOutput(root, 'precio-venta-sugerido', currencyFormatter.format(r.precioVentaSugerido));
+			setOutput(root, 'desglose-fob', currencyFormatter.format(r.totalFob));
+			setOutput(root, 'desglose-flete', currencyFormatter.format(r.totalFlete));
+			setOutput(root, 'desglose-seguro', currencyFormatter.format(r.seguro));
+			setOutput(root, 'desglose-ad-valorem', currencyFormatter.format(r.adValoremUsd));
+			setOutput(root, 'desglose-iva', currencyFormatter.format(r.ivaUsd));
+			setOutput(root, 'desglose-gastos-destino', currencyFormatter.format(r.totalGastosDestino));
+
+			const total = r.totalLandedCost > 0 ? r.totalLandedCost : 1;
+			const pctProductos = (r.totalFob / total) * 100;
+			const pctFletes = (r.totalFlete / total) * 100;
+			const pctImpuestos = (r.totalImpuestos / total) * 100;
+			const pctOtros = Math.max(0, 100 - pctProductos - pctFletes - pctImpuestos);
+
+			setBar(root, 'productos', pctProductos);
+			setBar(root, 'fletes', pctFletes);
+			setBar(root, 'impuestos', pctImpuestos);
+			setBar(root, 'otros', pctOtros);
+		}
+
+		inputs.forEach((input) => {
+			input.addEventListener('input', render);
+			input.addEventListener('change', render);
+		});
+
+		render();
+	}
+
+	document.querySelectorAll<HTMLElement>('[data-landed-cost-calculator]').forEach(initCalculator);
+</script>

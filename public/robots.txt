@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://calculadoras-importacion.vercel.app/sitemap-index.xml

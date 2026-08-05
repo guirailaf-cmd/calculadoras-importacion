@@ -1,0 +1,482 @@
+[
+  {
+    "slug": "importar-paneles-solares-china-chile",
+    "producto": "Paneles solares fotovoltaicos monocristalinos",
+    "hs_code": "854143",
+    "origen": "China",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 0,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 320,
+    "gastos_despacho_agente_usd": 380,
+    "flete_estimado_m3_usd": 65,
+    "permisos_especiales": "Certificación SEC (Superintendencia de Electricidad y Combustibles)",
+    "seo": {
+      "titulo_h1": "Cómo Importar Paneles Solares desde China a Chile: Guía Completa",
+      "meta_description": "Aprende a importar paneles solares fotovoltaicos desde China a Chile: aranceles, IVA, certificación SEC, costos de flete y despacho aduanero.",
+      "keywords": ["importar paneles solares china", "certificación SEC paneles solares", "arancel paneles fotovoltaicos chile", "importación energía solar chile"]
+    },
+    "faqs": [
+      { "pregunta": "¿Los paneles solares chinos pagan arancel al ingresar a Chile?", "respuesta": "No, gracias al TLC Chile-China la mayoría de los paneles fotovoltaicos ingresan con arancel 0%, quedando afectos solo al IVA del 19%." },
+      { "pregunta": "¿Es obligatoria la certificación SEC para importar paneles solares?", "respuesta": "Sí, todo equipo eléctrico o de generación fotovoltaica requiere certificación SEC antes de su comercialización e instalación en Chile." },
+      { "pregunta": "¿Cuánto demora el despacho aduanero de un contenedor de paneles solares?", "respuesta": "En condiciones normales, entre 5 y 10 días hábiles desde el arribo a puerto, dependiendo de si el contenedor es seleccionado para aforo físico." }
+    ]
+  },
+  {
+    "slug": "importar-maquinaria-cnc-china-chile",
+    "producto": "Máquinas de control numérico CNC (fresadoras)",
+    "hs_code": "845710",
+    "origen": "China",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 0,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 450,
+    "gastos_despacho_agente_usd": 550,
+    "flete_estimado_m3_usd": 95,
+    "permisos_especiales": "Certificado de origen para preferencia arancelaria TLC Chile-China (sin permiso sanitario ni sectorial obligatorio)",
+    "seo": {
+      "titulo_h1": "Importar Maquinaria CNC desde China a Chile: Costos y Trámites",
+      "meta_description": "Guía para importar máquinas CNC y fresadoras desde China a Chile: arancel, IVA, flete, despacho aduanero y certificado de origen.",
+      "keywords": ["importar maquinaria cnc china", "importar fresadora china chile", "arancel maquinaria industrial chile", "despacho aduanero maquinaria"]
+    },
+    "faqs": [
+      { "pregunta": "¿Qué documento reduce el arancel de la maquinaria CNC china?", "respuesta": "El Certificado de Origen emitido conforme al TLC Chile-China permite acceder a arancel preferencial 0%." },
+      { "pregunta": "¿Se requiere instalación certificada para maquinaria CNC importada?", "respuesta": "No existe un permiso sectorial obligatorio, pero se recomienda contratar un técnico certificado para la puesta en marcha y cumplimiento de normas de seguridad laboral." },
+      { "pregunta": "¿Conviene importar maquinaria CNC usada o nueva?", "respuesta": "La maquinaria usada requiere una declaración jurada adicional y puede estar sujeta a inspección técnica, lo que puede extender los plazos de despacho." }
+    ]
+  },
+  {
+    "slug": "importar-autopartes-frenos-eeuu-chile",
+    "producto": "Sistemas de frenos y pastillas para vehículos comerciales",
+    "hs_code": "870830",
+    "origen": "Estados Unidos",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 0,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 220,
+    "gastos_despacho_agente_usd": 300,
+    "flete_estimado_m3_usd": 70,
+    "permisos_especiales": "Homologación MTT recomendada para flotas de transporte de carga o pasajeros",
+    "seo": {
+      "titulo_h1": "Importar Autopartes de Frenos desde EE.UU. a Chile",
+      "meta_description": "Todo sobre importar sistemas de frenos y pastillas desde Estados Unidos a Chile: arancel TLC, IVA, flete y homologación MTT.",
+      "keywords": ["importar autopartes eeuu chile", "importar frenos vehiculos chile", "arancel autopartes tlc chile eeuu", "homologación mtt autopartes"]
+    },
+    "faqs": [
+      { "pregunta": "¿Las autopartes desde EE.UU. pagan arancel en Chile?", "respuesta": "No, el TLC Chile-Estados Unidos elimina el arancel para la mayoría de las autopartes, quedando solo el IVA del 19%." },
+      { "pregunta": "¿Cuándo se requiere homologación MTT para autopartes importadas?", "respuesta": "Se requiere cuando las piezas se destinan a vehículos de transporte público o de carga que deben mantener su certificación de emisiones y seguridad vigente." },
+      { "pregunta": "¿Qué garantías exige el mercado chileno para autopartes de frenos importadas?", "respuesta": "Aunque no es obligatorio por ley, los distribuidores suelen exigir certificado de calidad del fabricante (DOT o equivalente) para asegurar la venta." }
+    ]
+  },
+  {
+    "slug": "importar-ropa-deportiva-india-chile",
+    "producto": "Ropa deportiva técnica (poliéster/spandex)",
+    "hs_code": "610910",
+    "origen": "India",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 4,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 180,
+    "gastos_despacho_agente_usd": 250,
+    "flete_estimado_m3_usd": 55,
+    "permisos_especiales": "Etiquetado textil obligatorio (composición y país de origen) según normativa SERNAC",
+    "seo": {
+      "titulo_h1": "Importar Ropa Deportiva desde India a Chile: Guía B2B",
+      "meta_description": "Aprende a importar ropa deportiva técnica desde India a Chile: arancel ACE 71, IVA, etiquetado textil y costos logísticos.",
+      "keywords": ["importar ropa deportiva india", "importar textiles india chile", "arancel textil ace 71 chile india", "etiquetado textil sernac"]
+    },
+    "faqs": [
+      { "pregunta": "¿Qué arancel paga la ropa deportiva importada desde India?", "respuesta": "Bajo el Acuerdo ACE 71 Chile-India la preferencia es parcial, por lo que suele aplicarse un arancel residual cercano al 4% sobre el valor CIF." },
+      { "pregunta": "¿Qué información debe llevar la etiqueta de la ropa importada?", "respuesta": "Debe indicar composición textil, instrucciones de cuidado, talla y país de origen, conforme a la normativa de SERNAC." },
+      { "pregunta": "¿Conviene importar por vía marítima o aérea ropa deportiva desde India?", "respuesta": "Para volúmenes B2B, la vía marítima LCL o FCL es más económica; la vía aérea solo se justifica para reposiciones urgentes de bajo volumen." }
+    ]
+  },
+  {
+    "slug": "importar-audifonos-electronica-china-chile",
+    "producto": "Audífonos inalámbricos Bluetooth (electrónica de consumo)",
+    "hs_code": "851830",
+    "origen": "China",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 0,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 200,
+    "gastos_despacho_agente_usd": 280,
+    "flete_estimado_m3_usd": 60,
+    "permisos_especiales": "Certificación SUBTEL para equipos con transmisor Bluetooth/RF",
+    "seo": {
+      "titulo_h1": "Importar Audífonos Bluetooth desde China a Chile",
+      "meta_description": "Guía para importar audífonos inalámbricos desde China a Chile: certificación SUBTEL, arancel, IVA y costos de despacho.",
+      "keywords": ["importar audifonos bluetooth china", "certificación subtel electronica", "importar electronica de consumo china chile", "arancel audifonos chile"]
+    },
+    "faqs": [
+      { "pregunta": "¿Por qué se necesita certificación SUBTEL para audífonos Bluetooth?", "respuesta": "Porque emiten en frecuencias de radio reguladas y deben cumplir con los estándares técnicos chilenos antes de comercializarse." },
+      { "pregunta": "¿Cuánto tiempo toma obtener la certificación SUBTEL?", "respuesta": "El trámite de homologación puede tomar entre 2 y 4 semanas si el fabricante ya cuenta con informes de ensayo internacionales (FCC/CE)." },
+      { "pregunta": "¿Existe arancel para electrónica de consumo proveniente de China?", "respuesta": "No, la mayoría de los productos electrónicos de consumo ingresan con arancel 0% bajo el TLC Chile-China, quedando solo afectos al IVA." }
+    ]
+  },
+  {
+    "slug": "importar-monitores-signos-vitales-eeuu-chile",
+    "producto": "Monitores de signos vitales para uso hospitalario",
+    "hs_code": "901819",
+    "origen": "Estados Unidos",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 0,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 400,
+    "gastos_despacho_agente_usd": 600,
+    "flete_estimado_m3_usd": 110,
+    "permisos_especiales": "Registro Sanitario ISP (Instituto de Salud Pública) como dispositivo médico",
+    "seo": {
+      "titulo_h1": "Importar Monitores de Signos Vitales desde EE.UU. a Chile",
+      "meta_description": "Cómo importar monitores de signos vitales hospitalarios desde Estados Unidos a Chile: Registro Sanitario ISP, arancel, IVA y flete.",
+      "keywords": ["importar equipos medicos eeuu chile", "registro sanitario isp dispositivos medicos", "importar monitores signos vitales", "arancel equipos hospitalarios chile"]
+    },
+    "faqs": [
+      { "pregunta": "¿Es obligatorio el Registro Sanitario del ISP para equipos médicos?", "respuesta": "Sí, todo dispositivo médico importado para uso clínico debe contar con Registro Sanitario vigente ante el ISP antes de su comercialización." },
+      { "pregunta": "¿Cuánto demora obtener el Registro Sanitario ISP?", "respuesta": "El trámite puede tardar entre 3 y 6 meses dependiendo de la clase de riesgo del dispositivo y la documentación técnica disponible." },
+      { "pregunta": "¿Qué documentos adicionales exige la aduana para equipos médicos?", "respuesta": "Se requiere factura comercial, packing list, certificado de calidad del fabricante (FDA o CE) y la resolución de Registro Sanitario ISP." }
+    ]
+  },
+  {
+    "slug": "importar-muebles-oficina-china-chile",
+    "producto": "Muebles de oficina modulares (escritorios y sillas ergonómicas)",
+    "hs_code": "940330",
+    "origen": "China",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 0,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 260,
+    "gastos_despacho_agente_usd": 320,
+    "flete_estimado_m3_usd": 45,
+    "permisos_especiales": "Certificado fitosanitario NIMF-15 para embalaje de madera",
+    "seo": {
+      "titulo_h1": "Importar Muebles de Oficina desde China a Chile",
+      "meta_description": "Guía B2B para importar muebles de oficina modulares desde China a Chile: arancel, IVA, embalaje NIMF-15 y costos de flete.",
+      "keywords": ["importar muebles oficina china", "importar sillas ergonomicas china chile", "norma nimf-15 embalaje madera", "arancel muebles china chile"]
+    },
+    "faqs": [
+      { "pregunta": "¿Qué es la certificación NIMF-15 y cuándo se exige?", "respuesta": "Es la norma fitosanitaria internacional que exige que el embalaje de madera (pallets, cajones) esté tratado térmicamente para evitar plagas." },
+      { "pregunta": "¿Los muebles de oficina chinos pagan arancel en Chile?", "respuesta": "No, bajo el TLC Chile-China la mayoría de los muebles ingresan con arancel 0%, afectos solo al IVA del 19%." },
+      { "pregunta": "¿Cómo se optimiza el flete de muebles voluminosos?", "respuesta": "Se recomienda consolidar en contenedores FCL de 40' HQ y usar mobiliario desarmado (RTA) para maximizar el aprovechamiento del volumen." }
+    ]
+  },
+  {
+    "slug": "importar-juguetes-china-peru",
+    "producto": "Juguetes plásticos para niños (línea educativa)",
+    "hs_code": "950300",
+    "origen": "China",
+    "destino": "Perú",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 0,
+    "iva_pct": 18,
+    "gastos_puerto_usd": 190,
+    "gastos_despacho_agente_usd": 260,
+    "flete_estimado_m3_usd": 50,
+    "permisos_especiales": "Certificado de Conformidad INDECOPI (seguridad de juguetes según NTP)",
+    "seo": {
+      "titulo_h1": "Importar Juguetes desde China a Perú: Requisitos y Costos",
+      "meta_description": "Guía para importar juguetes educativos desde China a Perú: arancel TLC, IGV, certificado INDECOPI y costos logísticos.",
+      "keywords": ["importar juguetes china peru", "certificado indecopi juguetes", "arancel juguetes tlc peru china", "importar juguetes educativos"]
+    },
+    "faqs": [
+      { "pregunta": "¿Qué certificado exige Perú para importar juguetes?", "respuesta": "INDECOPI exige un Certificado de Conformidad que acredite el cumplimiento de la Norma Técnica Peruana (NTP) de seguridad de juguetes." },
+      { "pregunta": "¿Cuál es el IGV aplicable a la importación de juguetes en Perú?", "respuesta": "El Impuesto General a las Ventas (IGV) vigente es de 18% sobre el valor CIF más aranceles." },
+      { "pregunta": "¿Los juguetes chinos pagan arancel al ingresar a Perú?", "respuesta": "No, bajo el TLC Perú-China la mayoría de las partidas de juguetes ingresan con arancel 0%." }
+    ]
+  },
+  {
+    "slug": "importar-cosmeticos-eeuu-colombia",
+    "producto": "Cosméticos y productos de cuidado facial",
+    "hs_code": "330499",
+    "origen": "Estados Unidos",
+    "destino": "Colombia",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 0,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 210,
+    "gastos_despacho_agente_usd": 340,
+    "flete_estimado_m3_usd": 75,
+    "permisos_especiales": "Registro Sanitario INVIMA como producto cosmético",
+    "seo": {
+      "titulo_h1": "Importar Cosméticos desde EE.UU. a Colombia: Guía INVIMA",
+      "meta_description": "Cómo importar cosméticos de cuidado facial desde Estados Unidos a Colombia: Registro Sanitario INVIMA, arancel TLC e IVA.",
+      "keywords": ["importar cosmeticos eeuu colombia", "registro sanitario invima cosmeticos", "arancel cosmeticos tlc colombia eeuu", "importar cuidado facial colombia"]
+    },
+    "faqs": [
+      { "pregunta": "¿Es obligatorio el Registro INVIMA para importar cosméticos?", "respuesta": "Sí, todo cosmético importado debe contar con Notificación Sanitaria Obligatoria (NSO) o Registro ante el INVIMA antes de su venta en Colombia." },
+      { "pregunta": "¿Los cosméticos estadounidenses pagan arancel en Colombia?", "respuesta": "No, el TLC Colombia-Estados Unidos elimina el arancel para la mayoría de los productos cosméticos terminados." },
+      { "pregunta": "¿Cuánto demora la Notificación Sanitaria INVIMA?", "respuesta": "Generalmente entre 15 y 30 días hábiles si la documentación técnica del producto está completa." }
+    ]
+  },
+  {
+    "slug": "importar-fertilizantes-india-chile",
+    "producto": "Fertilizantes granulados NPK para uso agrícola",
+    "hs_code": "310210",
+    "origen": "India",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 6,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 300,
+    "gastos_despacho_agente_usd": 280,
+    "flete_estimado_m3_usd": 40,
+    "permisos_especiales": "Autorización y registro del SAG (Servicio Agrícola y Ganadero) para insumos agrícolas",
+    "seo": {
+      "titulo_h1": "Importar Fertilizantes NPK desde India a Chile",
+      "meta_description": "Guía para importar fertilizantes granulados NPK desde India a Chile: registro SAG, arancel, IVA y costos de flete a granel.",
+      "keywords": ["importar fertilizantes india chile", "registro sag fertilizantes", "arancel fertilizantes npk chile", "importar insumos agricolas india"]
+    },
+    "faqs": [
+      { "pregunta": "¿Qué autorización exige el SAG para importar fertilizantes?", "respuesta": "El SAG exige registro del producto y del importador, además de una autorización de internación previa al arribo de la carga." },
+      { "pregunta": "¿Qué arancel aplica a los fertilizantes indios en Chile?", "respuesta": "Al no existir preferencia plena bajo el ACE 71, suele aplicarse un arancel cercano al 6% sobre el valor CIF." },
+      { "pregunta": "¿Se puede importar fertilizante a granel sin envasar?", "respuesta": "Sí, pero requiere declaración específica de manejo a granel y cumplimiento de normas de almacenamiento del SAG en el recinto de destino." }
+    ]
+  },
+  {
+    "slug": "importar-neumaticos-china-chile",
+    "producto": "Neumáticos radiales para camiones y buses",
+    "hs_code": "401120",
+    "origen": "China",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 0,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 240,
+    "gastos_despacho_agente_usd": 300,
+    "flete_estimado_m3_usd": 58,
+    "permisos_especiales": "Certificación NCh recomendada para neumáticos de uso vehicular en flotas",
+    "seo": {
+      "titulo_h1": "Importar Neumáticos para Camiones desde China a Chile",
+      "meta_description": "Guía B2B para importar neumáticos radiales desde China a Chile: arancel, IVA, certificación NCh y costos de flete marítimo.",
+      "keywords": ["importar neumaticos china chile", "importar llantas camion china", "arancel neumaticos tlc chile china", "certificación nch neumaticos"]
+    },
+    "faqs": [
+      { "pregunta": "¿Los neumáticos chinos pagan arancel al llegar a Chile?", "respuesta": "No, bajo el TLC Chile-China los neumáticos radiales ingresan con arancel 0%, afectos solo al IVA del 19%." },
+      { "pregunta": "¿Es obligatoria una certificación de calidad para neumáticos importados?", "respuesta": "No es obligatoria por ley, pero se recomienda fuertemente para la venta a flotas de transporte que exigen cumplimiento de normas NCh." },
+      { "pregunta": "¿Cómo se calcula el flete de un contenedor de neumáticos?", "respuesta": "Se estima por volumen (m3) ocupado, ya que los neumáticos son voluminosos aunque relativamente livianos en comparación a su tamaño." }
+    ]
+  },
+  {
+    "slug": "importar-baterias-litio-china-chile",
+    "producto": "Baterías de litio para sistemas de almacenamiento energético (BESS)",
+    "hs_code": "850760",
+    "origen": "China",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 0,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 380,
+    "gastos_despacho_agente_usd": 420,
+    "flete_estimado_m3_usd": 90,
+    "permisos_especiales": "Certificación SEC + Declaración de Mercancías Peligrosas (IMDG Clase 9)",
+    "seo": {
+      "titulo_h1": "Importar Baterías de Litio (BESS) desde China a Chile",
+      "meta_description": "Cómo importar baterías de litio para almacenamiento energético desde China a Chile: certificación SEC, IMDG Clase 9, arancel e IVA.",
+      "keywords": ["importar baterias litio china chile", "certificación sec baterias", "mercancias peligrosas imdg clase 9", "importar sistemas bess chile"]
+    },
+    "faqs": [
+      { "pregunta": "¿Por qué las baterías de litio cuestan más en flete marítimo?", "respuesta": "Porque se clasifican como mercancía peligrosa (IMDG Clase 9) y requieren estiba, documentación y manejo especial, lo que incrementa la tarifa." },
+      { "pregunta": "¿Qué certificación exige Chile para baterías de litio de gran formato?", "respuesta": "La SEC exige certificación del equipo antes de su instalación en sistemas de almacenamiento conectados a la red eléctrica." },
+      { "pregunta": "¿Se puede transportar baterías de litio por vía aérea?", "respuesta": "Es posible pero con fuertes restricciones de capacidad y sobrecostos por regulación IATA; para volúmenes B2B se prefiere la vía marítima." }
+    ]
+  },
+  {
+    "slug": "importar-bombas-industriales-eeuu-mexico",
+    "producto": "Bombas centrífugas industriales para minería y agua",
+    "hs_code": "841370",
+    "origen": "Estados Unidos",
+    "destino": "México",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 0,
+    "iva_pct": 16,
+    "gastos_puerto_usd": 260,
+    "gastos_despacho_agente_usd": 310,
+    "flete_estimado_m3_usd": 68,
+    "permisos_especiales": "Cumplimiento de Norma Oficial Mexicana (NOM) aplicable a equipos industriales, según corresponda",
+    "seo": {
+      "titulo_h1": "Importar Bombas Centrífugas Industriales desde EE.UU. a México",
+      "meta_description": "Guía para importar bombas centrífugas para minería y agua desde Estados Unidos a México: arancel T-MEC, IVA y normas NOM.",
+      "keywords": ["importar bombas industriales eeuu mexico", "arancel t-mec bombas centrifugas", "norma nom equipos industriales", "importar equipos mineria mexico"]
+    },
+    "faqs": [
+      { "pregunta": "¿Las bombas industriales estadounidenses pagan arancel en México?", "respuesta": "No, bajo el T-MEC la mayoría de las bombas centrífugas industriales ingresan con arancel 0%." },
+      { "pregunta": "¿Cuándo se exige una NOM para bombas industriales importadas?", "respuesta": "Se exige cuando el equipo involucra componentes eléctricos o de seguridad regulados; conviene verificar la fracción arancelaria específica con un agente aduanal." },
+      { "pregunta": "¿Qué IVA se aplica a la importación de bombas en México?", "respuesta": "El IVA general de importación en México es de 16% sobre el valor en aduana." }
+    ]
+  },
+  {
+    "slug": "importar-te-granel-india-chile",
+    "producto": "Té negro y verde a granel para envasado",
+    "hs_code": "090240",
+    "origen": "India",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 3,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 150,
+    "gastos_despacho_agente_usd": 220,
+    "flete_estimado_m3_usd": 48,
+    "permisos_especiales": "Autorización sanitaria del SAG e informe de inocuidad alimentaria",
+    "seo": {
+      "titulo_h1": "Importar Té a Granel desde India a Chile",
+      "meta_description": "Guía B2B para importar té negro y verde a granel desde India a Chile: autorización SAG, arancel ACE 71, IVA y flete.",
+      "keywords": ["importar te granel india chile", "autorización sag alimentos", "arancel te ace 71 chile india", "importar te para envasado"]
+    },
+    "faqs": [
+      { "pregunta": "¿Qué trámite sanitario exige el SAG para importar té?", "respuesta": "Se requiere autorización de internación de alimentos e informe de inocuidad que certifique ausencia de plagas y contaminantes." },
+      { "pregunta": "¿Qué arancel paga el té indio al ingresar a Chile?", "respuesta": "Bajo el ACE 71 suele aplicarse una preferencia parcial, con un arancel residual cercano al 3% sobre el valor CIF." },
+      { "pregunta": "¿Se puede reenvasar el té importado a granel en Chile?", "respuesta": "Sí, es una práctica común para la venta B2B, pero el reenvasado debe cumplir con el etiquetado nutricional exigido por el MINSAL." }
+    ]
+  },
+  {
+    "slug": "importar-curcuma-especias-india-mexico",
+    "producto": "Cúrcuma y especias en polvo para uso alimentario",
+    "hs_code": "091030",
+    "origen": "India",
+    "destino": "México",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 5,
+    "iva_pct": 16,
+    "gastos_puerto_usd": 160,
+    "gastos_despacho_agente_usd": 230,
+    "flete_estimado_m3_usd": 50,
+    "permisos_especiales": "Permiso sanitario COFEPRIS para alimentos importados",
+    "seo": {
+      "titulo_h1": "Importar Cúrcuma y Especias desde India a México",
+      "meta_description": "Cómo importar cúrcuma y especias en polvo desde India a México: permiso COFEPRIS, arancel, IVA y costos logísticos.",
+      "keywords": ["importar curcuma india mexico", "permiso cofepris especias", "arancel especias india mexico", "importar especias a granel"]
+    },
+    "faqs": [
+      { "pregunta": "¿Qué permiso exige COFEPRIS para importar especias?", "respuesta": "COFEPRIS exige un aviso sanitario de importación y, en algunos casos, permiso previo para alimentos con riesgo de contaminación." },
+      { "pregunta": "¿Qué arancel paga la cúrcuma india al ingresar a México?", "respuesta": "Al no existir un TLC vigente entre México e India para esta partida, suele aplicarse un arancel cercano al 5% sobre el valor CIF." },
+      { "pregunta": "¿Se requiere análisis de laboratorio para especias importadas?", "respuesta": "Sí, es habitual que COFEPRIS solicite análisis microbiológico y de metales pesados antes de liberar la mercancía." }
+    ]
+  },
+  {
+    "slug": "importar-placas-pcb-electronica-china-chile",
+    "producto": "Placas de circuito impreso (PCB) para ensamblaje electrónico",
+    "hs_code": "853400",
+    "origen": "China",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 0,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 210,
+    "gastos_despacho_agente_usd": 260,
+    "flete_estimado_m3_usd": 52,
+    "permisos_especiales": "Sin permiso obligatorio; se recomienda certificado RoHS de cumplimiento ambiental",
+    "seo": {
+      "titulo_h1": "Importar Placas PCB desde China a Chile para Ensamblaje",
+      "meta_description": "Guía para importar placas de circuito impreso (PCB) desde China a Chile: arancel, IVA, certificado RoHS y costos de despacho.",
+      "keywords": ["importar pcb china chile", "importar circuitos impresos china", "certificado rohs electronica", "arancel componentes electronicos chile"]
+    },
+    "faqs": [
+      { "pregunta": "¿Qué es el certificado RoHS y por qué es recomendable?", "respuesta": "Certifica que el producto está libre de sustancias peligrosas restringidas; no es obligatorio en Chile pero facilita la venta a clientes industriales exigentes." },
+      { "pregunta": "¿Las placas PCB chinas pagan arancel en Chile?", "respuesta": "No, bajo el TLC Chile-China los componentes electrónicos como las PCB ingresan generalmente con arancel 0%." },
+      { "pregunta": "¿Qué cuidados logísticos requieren las PCB en el transporte?", "respuesta": "Se recomienda embalaje antiestático y control de humedad durante el transporte marítimo para evitar daños en los componentes." }
+    ]
+  },
+  {
+    "slug": "importar-epp-ropa-trabajo-china-peru",
+    "producto": "Equipos de protección personal (EPP) y ropa de trabajo industrial",
+    "hs_code": "621710",
+    "origen": "China",
+    "destino": "Perú",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 0,
+    "iva_pct": 18,
+    "gastos_puerto_usd": 170,
+    "gastos_despacho_agente_usd": 240,
+    "flete_estimado_m3_usd": 46,
+    "permisos_especiales": "Certificado de Conformidad INDECOPI y cumplimiento de normas de seguridad ocupacional",
+    "seo": {
+      "titulo_h1": "Importar Equipos de Protección Personal (EPP) desde China a Perú",
+      "meta_description": "Cómo importar EPP y ropa de trabajo industrial desde China a Perú: certificado INDECOPI, arancel, IGV y costos de flete.",
+      "keywords": ["importar epp china peru", "certificado indecopi seguridad ocupacional", "importar ropa trabajo industrial", "arancel epp tlc peru china"]
+    },
+    "faqs": [
+      { "pregunta": "¿Qué certificación exige Perú para EPP importado?", "respuesta": "INDECOPI exige Certificado de Conformidad que acredite el cumplimiento de las normas técnicas de seguridad ocupacional aplicables." },
+      { "pregunta": "¿El EPP chino paga arancel al ingresar a Perú?", "respuesta": "No, bajo el TLC Perú-China la mayoría de los equipos de protección personal ingresan con arancel 0%." },
+      { "pregunta": "¿Qué tipos de EPP requieren certificación adicional?", "respuesta": "Cascos, arneses y protección respiratoria suelen requerir fichas técnicas y certificados de ensayo específicos por su función crítica de seguridad." }
+    ]
+  },
+  {
+    "slug": "importar-paneles-led-iluminacion-china-chile",
+    "producto": "Paneles y luminarias LED industriales",
+    "hs_code": "940540",
+    "origen": "China",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 0,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 190,
+    "gastos_despacho_agente_usd": 250,
+    "flete_estimado_m3_usd": 54,
+    "permisos_especiales": "Certificación SEC para artefactos eléctricos de iluminación",
+    "seo": {
+      "titulo_h1": "Importar Luminarias LED Industriales desde China a Chile",
+      "meta_description": "Guía para importar paneles y luminarias LED industriales desde China a Chile: certificación SEC, arancel, IVA y flete marítimo.",
+      "keywords": ["importar luminarias led china chile", "certificación sec iluminación", "importar paneles led industriales", "arancel iluminacion led chile"]
+    },
+    "faqs": [
+      { "pregunta": "¿Por qué se exige certificación SEC para luminarias LED?", "respuesta": "Porque son artefactos eléctricos que deben cumplir normas de seguridad y eficiencia energética antes de comercializarse en Chile." },
+      { "pregunta": "¿Las luminarias LED chinas pagan arancel en Chile?", "respuesta": "No, bajo el TLC Chile-China ingresan generalmente con arancel 0%, afectas solo al IVA del 19%." },
+      { "pregunta": "¿Cuánto demora certificar un modelo de luminaria LED ante la SEC?", "respuesta": "El proceso puede tomar entre 3 y 6 semanas si el fabricante ya cuenta con informes de ensayo internacionales reconocidos." }
+    ]
+  },
+  {
+    "slug": "importar-tractores-compactos-eeuu-chile",
+    "producto": "Tractores agrícolas compactos",
+    "hs_code": "870190",
+    "origen": "Estados Unidos",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 0,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 520,
+    "gastos_despacho_agente_usd": 650,
+    "flete_estimado_m3_usd": 85,
+    "permisos_especiales": "Certificado de homologación vehicular MTT si el equipo circula por vías públicas",
+    "seo": {
+      "titulo_h1": "Importar Tractores Agrícolas Compactos desde EE.UU. a Chile",
+      "meta_description": "Guía para importar tractores agrícolas compactos desde Estados Unidos a Chile: homologación MTT, arancel TLC, IVA y flete.",
+      "keywords": ["importar tractores eeuu chile", "homologación mtt tractores", "arancel maquinaria agricola tlc chile eeuu", "importar maquinaria agricola"]
+    },
+    "faqs": [
+      { "pregunta": "¿Los tractores estadounidenses pagan arancel al llegar a Chile?", "respuesta": "No, bajo el TLC Chile-Estados Unidos los tractores agrícolas ingresan con arancel 0%." },
+      { "pregunta": "¿Cuándo se necesita homologación MTT para un tractor importado?", "respuesta": "Se necesita cuando el tractor debe circular por vías públicas; para uso exclusivo dentro de predios agrícolas no siempre es exigible." },
+      { "pregunta": "¿Qué documentos técnicos se requieren para importar tractores?", "respuesta": "Factura comercial, manual técnico, certificado de emisiones del fabricante y, si aplica, la resolución de homologación del MTT." }
+    ]
+  },
+  {
+    "slug": "importar-insumos-farmaceuticos-genericos-india-chile",
+    "producto": "Insumos farmacéuticos genéricos (principios activos y comprimidos a granel)",
+    "hs_code": "300490",
+    "origen": "India",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 0,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 350,
+    "gastos_despacho_agente_usd": 480,
+    "flete_estimado_m3_usd": 80,
+    "permisos_especiales": "Registro Sanitario ISP obligatorio + Certificado de Buenas Prácticas de Manufactura (BPM/GMP)",
+    "seo": {
+      "titulo_h1": "Importar Insumos Farmacéuticos Genéricos desde India a Chile",
+      "meta_description": "Cómo importar principios activos y comprimidos genéricos desde India a Chile: Registro Sanitario ISP, certificado GMP, arancel e IVA.",
+      "keywords": ["importar farmaceuticos india chile", "registro sanitario isp medicamentos", "certificado gmp farmaceutico", "importar principios activos india"]
+    },
+    "faqs": [
+      { "pregunta": "¿Qué exige el ISP para importar insumos farmacéuticos?", "respuesta": "Exige Registro Sanitario del producto y verificación de que la planta de origen cuenta con certificación de Buenas Prácticas de Manufactura (GMP)." },
+      { "pregunta": "¿Los insumos farmacéuticos indios pagan arancel en Chile?", "respuesta": "No, bajo el ACE 71 los principios activos y medicamentos genéricos suelen ingresar con arancel 0%." },
+      { "pregunta": "¿Cuánto demora el proceso de Registro Sanitario ISP para genéricos?", "respuesta": "Puede tardar entre 6 y 12 meses dependiendo de la complejidad del producto y la completitud del expediente técnico presentado." }
+    ]
+  }
+]
