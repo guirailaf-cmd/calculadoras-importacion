@@ -15,12 +15,26 @@
     "seo": {
       "titulo_h1": "Cómo Importar Paneles Solares desde China a Chile: Guía Completa",
       "meta_description": "Aprende a importar paneles solares fotovoltaicos desde China a Chile: aranceles, IVA, certificación SEC, costos de flete y despacho aduanero.",
-      "keywords": ["importar paneles solares china", "certificación SEC paneles solares", "arancel paneles fotovoltaicos chile", "importación energía solar chile"]
+      "keywords": [
+        "importar paneles solares china",
+        "certificación SEC paneles solares",
+        "arancel paneles fotovoltaicos chile",
+        "importación energía solar chile"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Los paneles solares chinos pagan arancel al ingresar a Chile?", "respuesta": "No, gracias al TLC Chile-China la mayoría de los paneles fotovoltaicos ingresan con arancel 0%, quedando afectos solo al IVA del 19%." },
-      { "pregunta": "¿Es obligatoria la certificación SEC para importar paneles solares?", "respuesta": "Sí, todo equipo eléctrico o de generación fotovoltaica requiere certificación SEC antes de su comercialización e instalación en Chile." },
-      { "pregunta": "¿Cuánto demora el despacho aduanero de un contenedor de paneles solares?", "respuesta": "En condiciones normales, entre 5 y 10 días hábiles desde el arribo a puerto, dependiendo de si el contenedor es seleccionado para aforo físico." }
+      {
+        "pregunta": "¿Los paneles solares chinos pagan arancel al ingresar a Chile?",
+        "respuesta": "No, gracias al TLC Chile-China la mayoría de los paneles fotovoltaicos ingresan con arancel 0%, quedando afectos solo al IVA del 19%."
+      },
+      {
+        "pregunta": "¿Es obligatoria la certificación SEC para importar paneles solares?",
+        "respuesta": "Sí, todo equipo eléctrico o de generación fotovoltaica requiere certificación SEC antes de su comercialización e instalación en Chile."
+      },
+      {
+        "pregunta": "¿Cuánto demora el despacho aduanero de un contenedor de paneles solares?",
+        "respuesta": "En condiciones normales, entre 5 y 10 días hábiles desde el arribo a puerto, dependiendo de si el contenedor es seleccionado para aforo físico."
+      }
     ]
   },
   {
@@ -39,12 +53,26 @@
     "seo": {
       "titulo_h1": "Importar Maquinaria CNC desde China a Chile: Costos y Trámites",
       "meta_description": "Guía para importar máquinas CNC y fresadoras desde China a Chile: arancel, IVA, flete, despacho aduanero y certificado de origen.",
-      "keywords": ["importar maquinaria cnc china", "importar fresadora china chile", "arancel maquinaria industrial chile", "despacho aduanero maquinaria"]
+      "keywords": [
+        "importar maquinaria cnc china",
+        "importar fresadora china chile",
+        "arancel maquinaria industrial chile",
+        "despacho aduanero maquinaria"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Qué documento reduce el arancel de la maquinaria CNC china?", "respuesta": "El Certificado de Origen emitido conforme al TLC Chile-China permite acceder a arancel preferencial 0%." },
-      { "pregunta": "¿Se requiere instalación certificada para maquinaria CNC importada?", "respuesta": "No existe un permiso sectorial obligatorio, pero se recomienda contratar un técnico certificado para la puesta en marcha y cumplimiento de normas de seguridad laboral." },
-      { "pregunta": "¿Conviene importar maquinaria CNC usada o nueva?", "respuesta": "La maquinaria usada requiere una declaración jurada adicional y puede estar sujeta a inspección técnica, lo que puede extender los plazos de despacho." }
+      {
+        "pregunta": "¿Qué documento reduce el arancel de la maquinaria CNC china?",
+        "respuesta": "El Certificado de Origen emitido conforme al TLC Chile-China permite acceder a arancel preferencial 0%."
+      },
+      {
+        "pregunta": "¿Se requiere instalación certificada para maquinaria CNC importada?",
+        "respuesta": "No existe un permiso sectorial obligatorio, pero se recomienda contratar un técnico certificado para la puesta en marcha y cumplimiento de normas de seguridad laboral."
+      },
+      {
+        "pregunta": "¿Conviene importar maquinaria CNC usada o nueva?",
+        "respuesta": "La maquinaria usada requiere una declaración jurada adicional y puede estar sujeta a inspección técnica, lo que puede extender los plazos de despacho."
+      }
     ]
   },
   {
@@ -63,12 +91,26 @@
     "seo": {
       "titulo_h1": "Importar Autopartes de Frenos desde EE.UU. a Chile",
       "meta_description": "Todo sobre importar sistemas de frenos y pastillas desde Estados Unidos a Chile: arancel TLC, IVA, flete y homologación MTT.",
-      "keywords": ["importar autopartes eeuu chile", "importar frenos vehiculos chile", "arancel autopartes tlc chile eeuu", "homologación mtt autopartes"]
+      "keywords": [
+        "importar autopartes eeuu chile",
+        "importar frenos vehiculos chile",
+        "arancel autopartes tlc chile eeuu",
+        "homologación mtt autopartes"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Las autopartes desde EE.UU. pagan arancel en Chile?", "respuesta": "No, el TLC Chile-Estados Unidos elimina el arancel para la mayoría de las autopartes, quedando solo el IVA del 19%." },
-      { "pregunta": "¿Cuándo se requiere homologación MTT para autopartes importadas?", "respuesta": "Se requiere cuando las piezas se destinan a vehículos de transporte público o de carga que deben mantener su certificación de emisiones y seguridad vigente." },
-      { "pregunta": "¿Qué garantías exige el mercado chileno para autopartes de frenos importadas?", "respuesta": "Aunque no es obligatorio por ley, los distribuidores suelen exigir certificado de calidad del fabricante (DOT o equivalente) para asegurar la venta." }
+      {
+        "pregunta": "¿Las autopartes desde EE.UU. pagan arancel en Chile?",
+        "respuesta": "No, el TLC Chile-Estados Unidos elimina el arancel para la mayoría de las autopartes, quedando solo el IVA del 19%."
+      },
+      {
+        "pregunta": "¿Cuándo se requiere homologación MTT para autopartes importadas?",
+        "respuesta": "Se requiere cuando las piezas se destinan a vehículos de transporte público o de carga que deben mantener su certificación de emisiones y seguridad vigente."
+      },
+      {
+        "pregunta": "¿Qué garantías exige el mercado chileno para autopartes de frenos importadas?",
+        "respuesta": "Aunque no es obligatorio por ley, los distribuidores suelen exigir certificado de calidad del fabricante (DOT o equivalente) para asegurar la venta."
+      }
     ]
   },
   {
@@ -87,12 +129,26 @@
     "seo": {
       "titulo_h1": "Importar Ropa Deportiva desde India a Chile: Guía B2B",
       "meta_description": "Aprende a importar ropa deportiva técnica desde India a Chile: arancel ACE 71, IVA, etiquetado textil y costos logísticos.",
-      "keywords": ["importar ropa deportiva india", "importar textiles india chile", "arancel textil ace 71 chile india", "etiquetado textil sernac"]
+      "keywords": [
+        "importar ropa deportiva india",
+        "importar textiles india chile",
+        "arancel textil ace 71 chile india",
+        "etiquetado textil sernac"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Qué arancel paga la ropa deportiva importada desde India?", "respuesta": "Bajo el Acuerdo ACE 71 Chile-India la preferencia es parcial, por lo que suele aplicarse un arancel residual cercano al 4% sobre el valor CIF." },
-      { "pregunta": "¿Qué información debe llevar la etiqueta de la ropa importada?", "respuesta": "Debe indicar composición textil, instrucciones de cuidado, talla y país de origen, conforme a la normativa de SERNAC." },
-      { "pregunta": "¿Conviene importar por vía marítima o aérea ropa deportiva desde India?", "respuesta": "Para volúmenes B2B, la vía marítima LCL o FCL es más económica; la vía aérea solo se justifica para reposiciones urgentes de bajo volumen." }
+      {
+        "pregunta": "¿Qué arancel paga la ropa deportiva importada desde India?",
+        "respuesta": "Bajo el Acuerdo ACE 71 Chile-India la preferencia es parcial, por lo que suele aplicarse un arancel residual cercano al 4% sobre el valor CIF."
+      },
+      {
+        "pregunta": "¿Qué información debe llevar la etiqueta de la ropa importada?",
+        "respuesta": "Debe indicar composición textil, instrucciones de cuidado, talla y país de origen, conforme a la normativa de SERNAC."
+      },
+      {
+        "pregunta": "¿Conviene importar por vía marítima o aérea ropa deportiva desde India?",
+        "respuesta": "Para volúmenes B2B, la vía marítima LCL o FCL es más económica; la vía aérea solo se justifica para reposiciones urgentes de bajo volumen."
+      }
     ]
   },
   {
@@ -111,12 +167,26 @@
     "seo": {
       "titulo_h1": "Importar Audífonos Bluetooth desde China a Chile",
       "meta_description": "Guía para importar audífonos inalámbricos desde China a Chile: certificación SUBTEL, arancel, IVA y costos de despacho.",
-      "keywords": ["importar audifonos bluetooth china", "certificación subtel electronica", "importar electronica de consumo china chile", "arancel audifonos chile"]
+      "keywords": [
+        "importar audifonos bluetooth china",
+        "certificación subtel electronica",
+        "importar electronica de consumo china chile",
+        "arancel audifonos chile"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Por qué se necesita certificación SUBTEL para audífonos Bluetooth?", "respuesta": "Porque emiten en frecuencias de radio reguladas y deben cumplir con los estándares técnicos chilenos antes de comercializarse." },
-      { "pregunta": "¿Cuánto tiempo toma obtener la certificación SUBTEL?", "respuesta": "El trámite de homologación puede tomar entre 2 y 4 semanas si el fabricante ya cuenta con informes de ensayo internacionales (FCC/CE)." },
-      { "pregunta": "¿Existe arancel para electrónica de consumo proveniente de China?", "respuesta": "No, la mayoría de los productos electrónicos de consumo ingresan con arancel 0% bajo el TLC Chile-China, quedando solo afectos al IVA." }
+      {
+        "pregunta": "¿Por qué se necesita certificación SUBTEL para audífonos Bluetooth?",
+        "respuesta": "Porque emiten en frecuencias de radio reguladas y deben cumplir con los estándares técnicos chilenos antes de comercializarse."
+      },
+      {
+        "pregunta": "¿Cuánto tiempo toma obtener la certificación SUBTEL?",
+        "respuesta": "El trámite de homologación puede tomar entre 2 y 4 semanas si el fabricante ya cuenta con informes de ensayo internacionales (FCC/CE)."
+      },
+      {
+        "pregunta": "¿Existe arancel para electrónica de consumo proveniente de China?",
+        "respuesta": "No, la mayoría de los productos electrónicos de consumo ingresan con arancel 0% bajo el TLC Chile-China, quedando solo afectos al IVA."
+      }
     ]
   },
   {
@@ -135,12 +205,26 @@
     "seo": {
       "titulo_h1": "Importar Monitores de Signos Vitales desde EE.UU. a Chile",
       "meta_description": "Cómo importar monitores de signos vitales hospitalarios desde Estados Unidos a Chile: Registro Sanitario ISP, arancel, IVA y flete.",
-      "keywords": ["importar equipos medicos eeuu chile", "registro sanitario isp dispositivos medicos", "importar monitores signos vitales", "arancel equipos hospitalarios chile"]
+      "keywords": [
+        "importar equipos medicos eeuu chile",
+        "registro sanitario isp dispositivos medicos",
+        "importar monitores signos vitales",
+        "arancel equipos hospitalarios chile"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Es obligatorio el Registro Sanitario del ISP para equipos médicos?", "respuesta": "Sí, todo dispositivo médico importado para uso clínico debe contar con Registro Sanitario vigente ante el ISP antes de su comercialización." },
-      { "pregunta": "¿Cuánto demora obtener el Registro Sanitario ISP?", "respuesta": "El trámite puede tardar entre 3 y 6 meses dependiendo de la clase de riesgo del dispositivo y la documentación técnica disponible." },
-      { "pregunta": "¿Qué documentos adicionales exige la aduana para equipos médicos?", "respuesta": "Se requiere factura comercial, packing list, certificado de calidad del fabricante (FDA o CE) y la resolución de Registro Sanitario ISP." }
+      {
+        "pregunta": "¿Es obligatorio el Registro Sanitario del ISP para equipos médicos?",
+        "respuesta": "Sí, todo dispositivo médico importado para uso clínico debe contar con Registro Sanitario vigente ante el ISP antes de su comercialización."
+      },
+      {
+        "pregunta": "¿Cuánto demora obtener el Registro Sanitario ISP?",
+        "respuesta": "El trámite puede tardar entre 3 y 6 meses dependiendo de la clase de riesgo del dispositivo y la documentación técnica disponible."
+      },
+      {
+        "pregunta": "¿Qué documentos adicionales exige la aduana para equipos médicos?",
+        "respuesta": "Se requiere factura comercial, packing list, certificado de calidad del fabricante (FDA o CE) y la resolución de Registro Sanitario ISP."
+      }
     ]
   },
   {
@@ -159,12 +243,26 @@
     "seo": {
       "titulo_h1": "Importar Muebles de Oficina desde China a Chile",
       "meta_description": "Guía B2B para importar muebles de oficina modulares desde China a Chile: arancel, IVA, embalaje NIMF-15 y costos de flete.",
-      "keywords": ["importar muebles oficina china", "importar sillas ergonomicas china chile", "norma nimf-15 embalaje madera", "arancel muebles china chile"]
+      "keywords": [
+        "importar muebles oficina china",
+        "importar sillas ergonomicas china chile",
+        "norma nimf-15 embalaje madera",
+        "arancel muebles china chile"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Qué es la certificación NIMF-15 y cuándo se exige?", "respuesta": "Es la norma fitosanitaria internacional que exige que el embalaje de madera (pallets, cajones) esté tratado térmicamente para evitar plagas." },
-      { "pregunta": "¿Los muebles de oficina chinos pagan arancel en Chile?", "respuesta": "No, bajo el TLC Chile-China la mayoría de los muebles ingresan con arancel 0%, afectos solo al IVA del 19%." },
-      { "pregunta": "¿Cómo se optimiza el flete de muebles voluminosos?", "respuesta": "Se recomienda consolidar en contenedores FCL de 40' HQ y usar mobiliario desarmado (RTA) para maximizar el aprovechamiento del volumen." }
+      {
+        "pregunta": "¿Qué es la certificación NIMF-15 y cuándo se exige?",
+        "respuesta": "Es la norma fitosanitaria internacional que exige que el embalaje de madera (pallets, cajones) esté tratado térmicamente para evitar plagas."
+      },
+      {
+        "pregunta": "¿Los muebles de oficina chinos pagan arancel en Chile?",
+        "respuesta": "No, bajo el TLC Chile-China la mayoría de los muebles ingresan con arancel 0%, afectos solo al IVA del 19%."
+      },
+      {
+        "pregunta": "¿Cómo se optimiza el flete de muebles voluminosos?",
+        "respuesta": "Se recomienda consolidar en contenedores FCL de 40' HQ y usar mobiliario desarmado (RTA) para maximizar el aprovechamiento del volumen."
+      }
     ]
   },
   {
@@ -183,12 +281,26 @@
     "seo": {
       "titulo_h1": "Importar Juguetes desde China a Perú: Requisitos y Costos",
       "meta_description": "Guía para importar juguetes educativos desde China a Perú: arancel TLC, IGV, certificado INDECOPI y costos logísticos.",
-      "keywords": ["importar juguetes china peru", "certificado indecopi juguetes", "arancel juguetes tlc peru china", "importar juguetes educativos"]
+      "keywords": [
+        "importar juguetes china peru",
+        "certificado indecopi juguetes",
+        "arancel juguetes tlc peru china",
+        "importar juguetes educativos"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Qué certificado exige Perú para importar juguetes?", "respuesta": "INDECOPI exige un Certificado de Conformidad que acredite el cumplimiento de la Norma Técnica Peruana (NTP) de seguridad de juguetes." },
-      { "pregunta": "¿Cuál es el IGV aplicable a la importación de juguetes en Perú?", "respuesta": "El Impuesto General a las Ventas (IGV) vigente es de 18% sobre el valor CIF más aranceles." },
-      { "pregunta": "¿Los juguetes chinos pagan arancel al ingresar a Perú?", "respuesta": "No, bajo el TLC Perú-China la mayoría de las partidas de juguetes ingresan con arancel 0%." }
+      {
+        "pregunta": "¿Qué certificado exige Perú para importar juguetes?",
+        "respuesta": "INDECOPI exige un Certificado de Conformidad que acredite el cumplimiento de la Norma Técnica Peruana (NTP) de seguridad de juguetes."
+      },
+      {
+        "pregunta": "¿Cuál es el IGV aplicable a la importación de juguetes en Perú?",
+        "respuesta": "El Impuesto General a las Ventas (IGV) vigente es de 18% sobre el valor CIF más aranceles."
+      },
+      {
+        "pregunta": "¿Los juguetes chinos pagan arancel al ingresar a Perú?",
+        "respuesta": "No, bajo el TLC Perú-China la mayoría de las partidas de juguetes ingresan con arancel 0%."
+      }
     ]
   },
   {
@@ -207,12 +319,26 @@
     "seo": {
       "titulo_h1": "Importar Cosméticos desde EE.UU. a Colombia: Guía INVIMA",
       "meta_description": "Cómo importar cosméticos de cuidado facial desde Estados Unidos a Colombia: Registro Sanitario INVIMA, arancel TLC e IVA.",
-      "keywords": ["importar cosmeticos eeuu colombia", "registro sanitario invima cosmeticos", "arancel cosmeticos tlc colombia eeuu", "importar cuidado facial colombia"]
+      "keywords": [
+        "importar cosmeticos eeuu colombia",
+        "registro sanitario invima cosmeticos",
+        "arancel cosmeticos tlc colombia eeuu",
+        "importar cuidado facial colombia"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Es obligatorio el Registro INVIMA para importar cosméticos?", "respuesta": "Sí, todo cosmético importado debe contar con Notificación Sanitaria Obligatoria (NSO) o Registro ante el INVIMA antes de su venta en Colombia." },
-      { "pregunta": "¿Los cosméticos estadounidenses pagan arancel en Colombia?", "respuesta": "No, el TLC Colombia-Estados Unidos elimina el arancel para la mayoría de los productos cosméticos terminados." },
-      { "pregunta": "¿Cuánto demora la Notificación Sanitaria INVIMA?", "respuesta": "Generalmente entre 15 y 30 días hábiles si la documentación técnica del producto está completa." }
+      {
+        "pregunta": "¿Es obligatorio el Registro INVIMA para importar cosméticos?",
+        "respuesta": "Sí, todo cosmético importado debe contar con Notificación Sanitaria Obligatoria (NSO) o Registro ante el INVIMA antes de su venta en Colombia."
+      },
+      {
+        "pregunta": "¿Los cosméticos estadounidenses pagan arancel en Colombia?",
+        "respuesta": "No, el TLC Colombia-Estados Unidos elimina el arancel para la mayoría de los productos cosméticos terminados."
+      },
+      {
+        "pregunta": "¿Cuánto demora la Notificación Sanitaria INVIMA?",
+        "respuesta": "Generalmente entre 15 y 30 días hábiles si la documentación técnica del producto está completa."
+      }
     ]
   },
   {
@@ -231,12 +357,26 @@
     "seo": {
       "titulo_h1": "Importar Fertilizantes NPK desde India a Chile",
       "meta_description": "Guía para importar fertilizantes granulados NPK desde India a Chile: registro SAG, arancel, IVA y costos de flete a granel.",
-      "keywords": ["importar fertilizantes india chile", "registro sag fertilizantes", "arancel fertilizantes npk chile", "importar insumos agricolas india"]
+      "keywords": [
+        "importar fertilizantes india chile",
+        "registro sag fertilizantes",
+        "arancel fertilizantes npk chile",
+        "importar insumos agricolas india"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Qué autorización exige el SAG para importar fertilizantes?", "respuesta": "El SAG exige registro del producto y del importador, además de una autorización de internación previa al arribo de la carga." },
-      { "pregunta": "¿Qué arancel aplica a los fertilizantes indios en Chile?", "respuesta": "Al no existir preferencia plena bajo el ACE 71, suele aplicarse un arancel cercano al 6% sobre el valor CIF." },
-      { "pregunta": "¿Se puede importar fertilizante a granel sin envasar?", "respuesta": "Sí, pero requiere declaración específica de manejo a granel y cumplimiento de normas de almacenamiento del SAG en el recinto de destino." }
+      {
+        "pregunta": "¿Qué autorización exige el SAG para importar fertilizantes?",
+        "respuesta": "El SAG exige registro del producto y del importador, además de una autorización de internación previa al arribo de la carga."
+      },
+      {
+        "pregunta": "¿Qué arancel aplica a los fertilizantes indios en Chile?",
+        "respuesta": "Al no existir preferencia plena bajo el ACE 71, suele aplicarse un arancel cercano al 6% sobre el valor CIF."
+      },
+      {
+        "pregunta": "¿Se puede importar fertilizante a granel sin envasar?",
+        "respuesta": "Sí, pero requiere declaración específica de manejo a granel y cumplimiento de normas de almacenamiento del SAG en el recinto de destino."
+      }
     ]
   },
   {
@@ -255,12 +395,26 @@
     "seo": {
       "titulo_h1": "Importar Neumáticos para Camiones desde China a Chile",
       "meta_description": "Guía B2B para importar neumáticos radiales desde China a Chile: arancel, IVA, certificación NCh y costos de flete marítimo.",
-      "keywords": ["importar neumaticos china chile", "importar llantas camion china", "arancel neumaticos tlc chile china", "certificación nch neumaticos"]
+      "keywords": [
+        "importar neumaticos china chile",
+        "importar llantas camion china",
+        "arancel neumaticos tlc chile china",
+        "certificación nch neumaticos"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Los neumáticos chinos pagan arancel al llegar a Chile?", "respuesta": "No, bajo el TLC Chile-China los neumáticos radiales ingresan con arancel 0%, afectos solo al IVA del 19%." },
-      { "pregunta": "¿Es obligatoria una certificación de calidad para neumáticos importados?", "respuesta": "No es obligatoria por ley, pero se recomienda fuertemente para la venta a flotas de transporte que exigen cumplimiento de normas NCh." },
-      { "pregunta": "¿Cómo se calcula el flete de un contenedor de neumáticos?", "respuesta": "Se estima por volumen (m3) ocupado, ya que los neumáticos son voluminosos aunque relativamente livianos en comparación a su tamaño." }
+      {
+        "pregunta": "¿Los neumáticos chinos pagan arancel al llegar a Chile?",
+        "respuesta": "No, bajo el TLC Chile-China los neumáticos radiales ingresan con arancel 0%, afectos solo al IVA del 19%."
+      },
+      {
+        "pregunta": "¿Es obligatoria una certificación de calidad para neumáticos importados?",
+        "respuesta": "No es obligatoria por ley, pero se recomienda fuertemente para la venta a flotas de transporte que exigen cumplimiento de normas NCh."
+      },
+      {
+        "pregunta": "¿Cómo se calcula el flete de un contenedor de neumáticos?",
+        "respuesta": "Se estima por volumen (m3) ocupado, ya que los neumáticos son voluminosos aunque relativamente livianos en comparación a su tamaño."
+      }
     ]
   },
   {
@@ -279,12 +433,26 @@
     "seo": {
       "titulo_h1": "Importar Baterías de Litio (BESS) desde China a Chile",
       "meta_description": "Cómo importar baterías de litio para almacenamiento energético desde China a Chile: certificación SEC, IMDG Clase 9, arancel e IVA.",
-      "keywords": ["importar baterias litio china chile", "certificación sec baterias", "mercancias peligrosas imdg clase 9", "importar sistemas bess chile"]
+      "keywords": [
+        "importar baterias litio china chile",
+        "certificación sec baterias",
+        "mercancias peligrosas imdg clase 9",
+        "importar sistemas bess chile"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Por qué las baterías de litio cuestan más en flete marítimo?", "respuesta": "Porque se clasifican como mercancía peligrosa (IMDG Clase 9) y requieren estiba, documentación y manejo especial, lo que incrementa la tarifa." },
-      { "pregunta": "¿Qué certificación exige Chile para baterías de litio de gran formato?", "respuesta": "La SEC exige certificación del equipo antes de su instalación en sistemas de almacenamiento conectados a la red eléctrica." },
-      { "pregunta": "¿Se puede transportar baterías de litio por vía aérea?", "respuesta": "Es posible pero con fuertes restricciones de capacidad y sobrecostos por regulación IATA; para volúmenes B2B se prefiere la vía marítima." }
+      {
+        "pregunta": "¿Por qué las baterías de litio cuestan más en flete marítimo?",
+        "respuesta": "Porque se clasifican como mercancía peligrosa (IMDG Clase 9) y requieren estiba, documentación y manejo especial, lo que incrementa la tarifa."
+      },
+      {
+        "pregunta": "¿Qué certificación exige Chile para baterías de litio de gran formato?",
+        "respuesta": "La SEC exige certificación del equipo antes de su instalación en sistemas de almacenamiento conectados a la red eléctrica."
+      },
+      {
+        "pregunta": "¿Se puede transportar baterías de litio por vía aérea?",
+        "respuesta": "Es posible pero con fuertes restricciones de capacidad y sobrecostos por regulación IATA; para volúmenes B2B se prefiere la vía marítima."
+      }
     ]
   },
   {
@@ -303,12 +471,26 @@
     "seo": {
       "titulo_h1": "Importar Bombas Centrífugas Industriales desde EE.UU. a México",
       "meta_description": "Guía para importar bombas centrífugas para minería y agua desde Estados Unidos a México: arancel T-MEC, IVA y normas NOM.",
-      "keywords": ["importar bombas industriales eeuu mexico", "arancel t-mec bombas centrifugas", "norma nom equipos industriales", "importar equipos mineria mexico"]
+      "keywords": [
+        "importar bombas industriales eeuu mexico",
+        "arancel t-mec bombas centrifugas",
+        "norma nom equipos industriales",
+        "importar equipos mineria mexico"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Las bombas industriales estadounidenses pagan arancel en México?", "respuesta": "No, bajo el T-MEC la mayoría de las bombas centrífugas industriales ingresan con arancel 0%." },
-      { "pregunta": "¿Cuándo se exige una NOM para bombas industriales importadas?", "respuesta": "Se exige cuando el equipo involucra componentes eléctricos o de seguridad regulados; conviene verificar la fracción arancelaria específica con un agente aduanal." },
-      { "pregunta": "¿Qué IVA se aplica a la importación de bombas en México?", "respuesta": "El IVA general de importación en México es de 16% sobre el valor en aduana." }
+      {
+        "pregunta": "¿Las bombas industriales estadounidenses pagan arancel en México?",
+        "respuesta": "No, bajo el T-MEC la mayoría de las bombas centrífugas industriales ingresan con arancel 0%."
+      },
+      {
+        "pregunta": "¿Cuándo se exige una NOM para bombas industriales importadas?",
+        "respuesta": "Se exige cuando el equipo involucra componentes eléctricos o de seguridad regulados; conviene verificar la fracción arancelaria específica con un agente aduanal."
+      },
+      {
+        "pregunta": "¿Qué IVA se aplica a la importación de bombas en México?",
+        "respuesta": "El IVA general de importación en México es de 16% sobre el valor en aduana."
+      }
     ]
   },
   {
@@ -327,12 +509,26 @@
     "seo": {
       "titulo_h1": "Importar Té a Granel desde India a Chile",
       "meta_description": "Guía B2B para importar té negro y verde a granel desde India a Chile: autorización SAG, arancel ACE 71, IVA y flete.",
-      "keywords": ["importar te granel india chile", "autorización sag alimentos", "arancel te ace 71 chile india", "importar te para envasado"]
+      "keywords": [
+        "importar te granel india chile",
+        "autorización sag alimentos",
+        "arancel te ace 71 chile india",
+        "importar te para envasado"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Qué trámite sanitario exige el SAG para importar té?", "respuesta": "Se requiere autorización de internación de alimentos e informe de inocuidad que certifique ausencia de plagas y contaminantes." },
-      { "pregunta": "¿Qué arancel paga el té indio al ingresar a Chile?", "respuesta": "Bajo el ACE 71 suele aplicarse una preferencia parcial, con un arancel residual cercano al 3% sobre el valor CIF." },
-      { "pregunta": "¿Se puede reenvasar el té importado a granel en Chile?", "respuesta": "Sí, es una práctica común para la venta B2B, pero el reenvasado debe cumplir con el etiquetado nutricional exigido por el MINSAL." }
+      {
+        "pregunta": "¿Qué trámite sanitario exige el SAG para importar té?",
+        "respuesta": "Se requiere autorización de internación de alimentos e informe de inocuidad que certifique ausencia de plagas y contaminantes."
+      },
+      {
+        "pregunta": "¿Qué arancel paga el té indio al ingresar a Chile?",
+        "respuesta": "Bajo el ACE 71 suele aplicarse una preferencia parcial, con un arancel residual cercano al 3% sobre el valor CIF."
+      },
+      {
+        "pregunta": "¿Se puede reenvasar el té importado a granel en Chile?",
+        "respuesta": "Sí, es una práctica común para la venta B2B, pero el reenvasado debe cumplir con el etiquetado nutricional exigido por el MINSAL."
+      }
     ]
   },
   {
@@ -351,12 +547,26 @@
     "seo": {
       "titulo_h1": "Importar Cúrcuma y Especias desde India a México",
       "meta_description": "Cómo importar cúrcuma y especias en polvo desde India a México: permiso COFEPRIS, arancel, IVA y costos logísticos.",
-      "keywords": ["importar curcuma india mexico", "permiso cofepris especias", "arancel especias india mexico", "importar especias a granel"]
+      "keywords": [
+        "importar curcuma india mexico",
+        "permiso cofepris especias",
+        "arancel especias india mexico",
+        "importar especias a granel"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Qué permiso exige COFEPRIS para importar especias?", "respuesta": "COFEPRIS exige un aviso sanitario de importación y, en algunos casos, permiso previo para alimentos con riesgo de contaminación." },
-      { "pregunta": "¿Qué arancel paga la cúrcuma india al ingresar a México?", "respuesta": "Al no existir un TLC vigente entre México e India para esta partida, suele aplicarse un arancel cercano al 5% sobre el valor CIF." },
-      { "pregunta": "¿Se requiere análisis de laboratorio para especias importadas?", "respuesta": "Sí, es habitual que COFEPRIS solicite análisis microbiológico y de metales pesados antes de liberar la mercancía." }
+      {
+        "pregunta": "¿Qué permiso exige COFEPRIS para importar especias?",
+        "respuesta": "COFEPRIS exige un aviso sanitario de importación y, en algunos casos, permiso previo para alimentos con riesgo de contaminación."
+      },
+      {
+        "pregunta": "¿Qué arancel paga la cúrcuma india al ingresar a México?",
+        "respuesta": "Al no existir un TLC vigente entre México e India para esta partida, suele aplicarse un arancel cercano al 5% sobre el valor CIF."
+      },
+      {
+        "pregunta": "¿Se requiere análisis de laboratorio para especias importadas?",
+        "respuesta": "Sí, es habitual que COFEPRIS solicite análisis microbiológico y de metales pesados antes de liberar la mercancía."
+      }
     ]
   },
   {
@@ -375,12 +585,26 @@
     "seo": {
       "titulo_h1": "Importar Placas PCB desde China a Chile para Ensamblaje",
       "meta_description": "Guía para importar placas de circuito impreso (PCB) desde China a Chile: arancel, IVA, certificado RoHS y costos de despacho.",
-      "keywords": ["importar pcb china chile", "importar circuitos impresos china", "certificado rohs electronica", "arancel componentes electronicos chile"]
+      "keywords": [
+        "importar pcb china chile",
+        "importar circuitos impresos china",
+        "certificado rohs electronica",
+        "arancel componentes electronicos chile"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Qué es el certificado RoHS y por qué es recomendable?", "respuesta": "Certifica que el producto está libre de sustancias peligrosas restringidas; no es obligatorio en Chile pero facilita la venta a clientes industriales exigentes." },
-      { "pregunta": "¿Las placas PCB chinas pagan arancel en Chile?", "respuesta": "No, bajo el TLC Chile-China los componentes electrónicos como las PCB ingresan generalmente con arancel 0%." },
-      { "pregunta": "¿Qué cuidados logísticos requieren las PCB en el transporte?", "respuesta": "Se recomienda embalaje antiestático y control de humedad durante el transporte marítimo para evitar daños en los componentes." }
+      {
+        "pregunta": "¿Qué es el certificado RoHS y por qué es recomendable?",
+        "respuesta": "Certifica que el producto está libre de sustancias peligrosas restringidas; no es obligatorio en Chile pero facilita la venta a clientes industriales exigentes."
+      },
+      {
+        "pregunta": "¿Las placas PCB chinas pagan arancel en Chile?",
+        "respuesta": "No, bajo el TLC Chile-China los componentes electrónicos como las PCB ingresan generalmente con arancel 0%."
+      },
+      {
+        "pregunta": "¿Qué cuidados logísticos requieren las PCB en el transporte?",
+        "respuesta": "Se recomienda embalaje antiestático y control de humedad durante el transporte marítimo para evitar daños en los componentes."
+      }
     ]
   },
   {
@@ -399,12 +623,26 @@
     "seo": {
       "titulo_h1": "Importar Equipos de Protección Personal (EPP) desde China a Perú",
       "meta_description": "Cómo importar EPP y ropa de trabajo industrial desde China a Perú: certificado INDECOPI, arancel, IGV y costos de flete.",
-      "keywords": ["importar epp china peru", "certificado indecopi seguridad ocupacional", "importar ropa trabajo industrial", "arancel epp tlc peru china"]
+      "keywords": [
+        "importar epp china peru",
+        "certificado indecopi seguridad ocupacional",
+        "importar ropa trabajo industrial",
+        "arancel epp tlc peru china"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Qué certificación exige Perú para EPP importado?", "respuesta": "INDECOPI exige Certificado de Conformidad que acredite el cumplimiento de las normas técnicas de seguridad ocupacional aplicables." },
-      { "pregunta": "¿El EPP chino paga arancel al ingresar a Perú?", "respuesta": "No, bajo el TLC Perú-China la mayoría de los equipos de protección personal ingresan con arancel 0%." },
-      { "pregunta": "¿Qué tipos de EPP requieren certificación adicional?", "respuesta": "Cascos, arneses y protección respiratoria suelen requerir fichas técnicas y certificados de ensayo específicos por su función crítica de seguridad." }
+      {
+        "pregunta": "¿Qué certificación exige Perú para EPP importado?",
+        "respuesta": "INDECOPI exige Certificado de Conformidad que acredite el cumplimiento de las normas técnicas de seguridad ocupacional aplicables."
+      },
+      {
+        "pregunta": "¿El EPP chino paga arancel al ingresar a Perú?",
+        "respuesta": "No, bajo el TLC Perú-China la mayoría de los equipos de protección personal ingresan con arancel 0%."
+      },
+      {
+        "pregunta": "¿Qué tipos de EPP requieren certificación adicional?",
+        "respuesta": "Cascos, arneses y protección respiratoria suelen requerir fichas técnicas y certificados de ensayo específicos por su función crítica de seguridad."
+      }
     ]
   },
   {
@@ -423,12 +661,26 @@
     "seo": {
       "titulo_h1": "Importar Luminarias LED Industriales desde China a Chile",
       "meta_description": "Guía para importar paneles y luminarias LED industriales desde China a Chile: certificación SEC, arancel, IVA y flete marítimo.",
-      "keywords": ["importar luminarias led china chile", "certificación sec iluminación", "importar paneles led industriales", "arancel iluminacion led chile"]
+      "keywords": [
+        "importar luminarias led china chile",
+        "certificación sec iluminación",
+        "importar paneles led industriales",
+        "arancel iluminacion led chile"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Por qué se exige certificación SEC para luminarias LED?", "respuesta": "Porque son artefactos eléctricos que deben cumplir normas de seguridad y eficiencia energética antes de comercializarse en Chile." },
-      { "pregunta": "¿Las luminarias LED chinas pagan arancel en Chile?", "respuesta": "No, bajo el TLC Chile-China ingresan generalmente con arancel 0%, afectas solo al IVA del 19%." },
-      { "pregunta": "¿Cuánto demora certificar un modelo de luminaria LED ante la SEC?", "respuesta": "El proceso puede tomar entre 3 y 6 semanas si el fabricante ya cuenta con informes de ensayo internacionales reconocidos." }
+      {
+        "pregunta": "¿Por qué se exige certificación SEC para luminarias LED?",
+        "respuesta": "Porque son artefactos eléctricos que deben cumplir normas de seguridad y eficiencia energética antes de comercializarse en Chile."
+      },
+      {
+        "pregunta": "¿Las luminarias LED chinas pagan arancel en Chile?",
+        "respuesta": "No, bajo el TLC Chile-China ingresan generalmente con arancel 0%, afectas solo al IVA del 19%."
+      },
+      {
+        "pregunta": "¿Cuánto demora certificar un modelo de luminaria LED ante la SEC?",
+        "respuesta": "El proceso puede tomar entre 3 y 6 semanas si el fabricante ya cuenta con informes de ensayo internacionales reconocidos."
+      }
     ]
   },
   {
@@ -447,12 +699,26 @@
     "seo": {
       "titulo_h1": "Importar Tractores Agrícolas Compactos desde EE.UU. a Chile",
       "meta_description": "Guía para importar tractores agrícolas compactos desde Estados Unidos a Chile: homologación MTT, arancel TLC, IVA y flete.",
-      "keywords": ["importar tractores eeuu chile", "homologación mtt tractores", "arancel maquinaria agricola tlc chile eeuu", "importar maquinaria agricola"]
+      "keywords": [
+        "importar tractores eeuu chile",
+        "homologación mtt tractores",
+        "arancel maquinaria agricola tlc chile eeuu",
+        "importar maquinaria agricola"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Los tractores estadounidenses pagan arancel al llegar a Chile?", "respuesta": "No, bajo el TLC Chile-Estados Unidos los tractores agrícolas ingresan con arancel 0%." },
-      { "pregunta": "¿Cuándo se necesita homologación MTT para un tractor importado?", "respuesta": "Se necesita cuando el tractor debe circular por vías públicas; para uso exclusivo dentro de predios agrícolas no siempre es exigible." },
-      { "pregunta": "¿Qué documentos técnicos se requieren para importar tractores?", "respuesta": "Factura comercial, manual técnico, certificado de emisiones del fabricante y, si aplica, la resolución de homologación del MTT." }
+      {
+        "pregunta": "¿Los tractores estadounidenses pagan arancel al llegar a Chile?",
+        "respuesta": "No, bajo el TLC Chile-Estados Unidos los tractores agrícolas ingresan con arancel 0%."
+      },
+      {
+        "pregunta": "¿Cuándo se necesita homologación MTT para un tractor importado?",
+        "respuesta": "Se necesita cuando el tractor debe circular por vías públicas; para uso exclusivo dentro de predios agrícolas no siempre es exigible."
+      },
+      {
+        "pregunta": "¿Qué documentos técnicos se requieren para importar tractores?",
+        "respuesta": "Factura comercial, manual técnico, certificado de emisiones del fabricante y, si aplica, la resolución de homologación del MTT."
+      }
     ]
   },
   {
@@ -471,12 +737,1752 @@
     "seo": {
       "titulo_h1": "Importar Insumos Farmacéuticos Genéricos desde India a Chile",
       "meta_description": "Cómo importar principios activos y comprimidos genéricos desde India a Chile: Registro Sanitario ISP, certificado GMP, arancel e IVA.",
-      "keywords": ["importar farmaceuticos india chile", "registro sanitario isp medicamentos", "certificado gmp farmaceutico", "importar principios activos india"]
+      "keywords": [
+        "importar farmaceuticos india chile",
+        "registro sanitario isp medicamentos",
+        "certificado gmp farmaceutico",
+        "importar principios activos india"
+      ]
     },
     "faqs": [
-      { "pregunta": "¿Qué exige el ISP para importar insumos farmacéuticos?", "respuesta": "Exige Registro Sanitario del producto y verificación de que la planta de origen cuenta con certificación de Buenas Prácticas de Manufactura (GMP)." },
-      { "pregunta": "¿Los insumos farmacéuticos indios pagan arancel en Chile?", "respuesta": "No, bajo el ACE 71 los principios activos y medicamentos genéricos suelen ingresar con arancel 0%." },
-      { "pregunta": "¿Cuánto demora el proceso de Registro Sanitario ISP para genéricos?", "respuesta": "Puede tardar entre 6 y 12 meses dependiendo de la complejidad del producto y la completitud del expediente técnico presentado." }
+      {
+        "pregunta": "¿Qué exige el ISP para importar insumos farmacéuticos?",
+        "respuesta": "Exige Registro Sanitario del producto y verificación de que la planta de origen cuenta con certificación de Buenas Prácticas de Manufactura (GMP)."
+      },
+      {
+        "pregunta": "¿Los insumos farmacéuticos indios pagan arancel en Chile?",
+        "respuesta": "No, bajo el ACE 71 los principios activos y medicamentos genéricos suelen ingresar con arancel 0%."
+      },
+      {
+        "pregunta": "¿Cuánto demora el proceso de Registro Sanitario ISP para genéricos?",
+        "respuesta": "Puede tardar entre 6 y 12 meses dependiendo de la complejidad del producto y la completitud del expediente técnico presentado."
+      }
+    ]
+  },
+  {
+    "slug": "importar-compresores-aire-china-peru",
+    "producto": "Compresores de aire rotativo de tornillo",
+    "hs_code": "841011",
+    "origen": "China",
+    "destino": "Perú",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 6,
+    "iva_pct": 18,
+    "gastos_puerto_usd": 450,
+    "gastos_despacho_agente_usd": 350,
+    "flete_estimado_m3_usd": 85,
+    "permisos_especiales": "Certificado de origen, Inspección técnica de calidad, Etiquetado de seguridad industrial",
+    "seo": {
+      "titulo_h1": "Importar Compresores de Aire Industrial desde China a Perú",
+      "meta_description": "Guía completa para importar compresores de aire rotativo desde China hacia Perú. Aranceles, costos y requisitos de seguridad.",
+      "keywords": [
+        "compresores aire industrial",
+        "importar desde China",
+        "Perú maquinaria",
+        "compresores tornillo",
+        "comercio B2B"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es el tiempo de entrega típico para compresores desde China a Perú?",
+        "respuesta": "El tiempo de tránsito marítimo es de 15-18 días hábiles desde puertos chinos. Sumando trámites aduanales y despacho, el proceso completo toma entre 25-30 días."
+      },
+      {
+        "pregunta": "¿Qué certificaciones técnicas necesitan estos compresores para entrar a Perú?",
+        "respuesta": "Requieren certificado de origen, inspección técnica de conformidad, marcado CE o equivalente, y etiquetado en español con especificaciones de seguridad industrial."
+      }
+    ]
+  },
+  {
+    "slug": "importar-motores-electricos-industrales-india-colombia",
+    "producto": "Motores eléctricos trifásicos 5-50 HP",
+    "hs_code": "850140",
+    "origen": "India",
+    "destino": "Colombia",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 5,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 380,
+    "gastos_despacho_agente_usd": 320,
+    "flete_estimado_m3_usd": 95,
+    "permisos_especiales": "Certificación BIS India, Declaración de conformidad técnica, Registro ante DIAN",
+    "seo": {
+      "titulo_h1": "Importar Motores Eléctricos Industriales desde India a Colombia",
+      "meta_description": "Importación B2B de motores trifásicos industriales desde India. Costos, aranceles y requisitos técnicos para Colombia.",
+      "keywords": [
+        "motores eléctricos industriales",
+        "India exportación",
+        "Colombia importación",
+        "motores trifásicos",
+        "maquinaria pesada"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cuáles son los voltajes estándar disponibles en motores desde India?",
+        "respuesta": "Los fabricantes indios producen motores de 220V/380V/415V trifásicos. Para Colombia se recomienda verificar con el proveedor que cumplan con estándares locales de 220V/440V."
+      },
+      {
+        "pregunta": "¿Qué documentación técnica debe incluirse en el envío?",
+        "respuesta": "Manual de operación en español, certificado de garantía, especificaciones técnicas, planos de instalación y conexión, pruebas de rendimiento de fábrica."
+      }
+    ]
+  },
+  {
+    "slug": "importar-tornos-cnc-vertical-china-mexico",
+    "producto": "Tornos CNC verticales de precisión",
+    "hs_code": "845091",
+    "origen": "China",
+    "destino": "México",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 4,
+    "iva_pct": 16,
+    "gastos_puerto_usd": 520,
+    "gastos_despacho_agente_usd": 400,
+    "flete_estimado_m3_usd": 120,
+    "permisos_especiales": "Certificado de maquinaria conforme a normativa mexicana, Verificación de funcionamiento, Registro en SAT",
+    "seo": {
+      "titulo_h1": "Importar Tornos CNC Verticales desde China a México",
+      "meta_description": "Guía de importación de tornos CNC verticales de precisión desde fabricantes chinos hacia México. Costos y requisitos aduanales.",
+      "keywords": [
+        "tornos CNC",
+        "maquinaria China",
+        "México importación",
+        "precisión industrial",
+        "equipamiento manufacturing"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Es necesario realizar pruebas de precisión en los tornos CNC antes de la importación?",
+        "respuesta": "Se recomienda solicitar al fabricante chino pruebas de precisión certificadas antes del envío. Esto evita problemas en aduanas mexicanas y facilita la instalación inmediata."
+      },
+      {
+        "pregunta": "¿Cuál es el costo aproximado de instalación y capacitación de operadores?",
+        "respuesta": "Generalmente varía entre USD 3,000-8,000 según complejidad del equipo. Muchos proveedores chinos incluyen capacitación online o envío de técnicos con costo adicional."
+      }
+    ]
+  },
+  {
+    "slug": "importar-equipos-soldadura-inverter-eeuu-chile",
+    "producto": "Equipos de soldadura inverter IGBT 160-250A",
+    "hs_code": "851231",
+    "origen": "Estados Unidos",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 6,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 400,
+    "gastos_despacho_agente_usd": 330,
+    "flete_estimado_m3_usd": 105,
+    "permisos_especiales": "Certificación UL o ETL, Declaración de conformidad electromagnética, Etiquetado bilingüe",
+    "seo": {
+      "titulo_h1": "Importar Equipos de Soldadura Inverter desde Estados Unidos a Chile",
+      "meta_description": "Importación B2B de máquinas soldadoras inverter desde fabricantes estadounidenses hacia Chile. Especificaciones técnicas y costos totales.",
+      "keywords": [
+        "equipos soldadura",
+        "inverter IGBT",
+        "Estados Unidos",
+        "Chile",
+        "maquinaria industrial",
+        "welding equipment"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué voltaje requieren estos equipos de soldadura en Chile?",
+        "respuesta": "Chile utiliza 220V monofásico o 220V/380V trifásico. Los equipos estadounidenses típicamente operan a 120/240V, por lo que se requiere transformador de voltaje."
+      },
+      {
+        "pregunta": "¿Cuál es el tiempo de garantía y servicio técnico en Chile?",
+        "respuesta": "La mayoría de fabricantes estadounidenses ofrecen 2 años de garantía. El servicio técnico puede gestionarse con distribuidores autorizados en Chile o mediante proveedores importadores."
+      }
+    ]
+  },
+  {
+    "slug": "importar-generadores-diesel-industrial-china-colombia",
+    "producto": "Generadores diesel 50-100 kW con transferencia automática",
+    "hs_code": "850220",
+    "origen": "China",
+    "destino": "Colombia",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 7,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 500,
+    "gastos_despacho_agente_usd": 380,
+    "flete_estimado_m3_usd": 130,
+    "permisos_especiales": "Certificado de origen chino, Aprobación ambiental según resoluciones MADS, Registro ante ENEL/Distribuidoras locales",
+    "seo": {
+      "titulo_h1": "Importar Generadores Diesel Industriales desde China a Colombia",
+      "meta_description": "Guía de importación de generadores diesel 50-100 kW desde China hacia Colombia. Requisitos ambientales y especificaciones técnicas.",
+      "keywords": [
+        "generadores diesel",
+        "maquinaria industrial",
+        "China Colombia",
+        "energía respaldo",
+        "equipos generación"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué requisitos ambientales debo cumplir para importar generadores diesel en Colombia?",
+        "respuesta": "Debe obtener registro ante la MADS (Ministerio de Ambiente) y cumplir con emisiones según Resolución 1407/2018. Los generadores deben contar con documentación de cumplimiento ambiental."
+      },
+      {
+        "pregunta": "¿Incluye el precio del generador el sistema de transferencia automática?",
+        "respuesta": "Esto debe especificarse en la orden de compra. Algunos fabricantes chinos lo incluyen, otros lo cobran como adicional. Se recomienda confirmar antes de la compra."
+      }
+    ]
+  },
+  {
+    "slug": "importar-prensas-neumaticas-india-peru",
+    "producto": "Prensas neumáticas de 20 a 80 toneladas",
+    "hs_code": "846581",
+    "origen": "India",
+    "destino": "Perú",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 5,
+    "iva_pct": 18,
+    "gastos_puerto_usd": 420,
+    "gastos_despacho_agente_usd": 340,
+    "flete_estimado_m3_usd": 110,
+    "permisos_especiales": "Certificación PED (Pressure Equipment Directive), Inspección de seguridad industrial, Documentación en español",
+    "seo": {
+      "titulo_h1": "Importar Prensas Neumáticas desde India a Perú",
+      "meta_description": "Importación de prensas neumáticas industriales 20-80 toneladas desde India hacia Perú. Costos, certificaciones y procesos aduanales.",
+      "keywords": [
+        "prensas neumáticas",
+        "maquinaria India",
+        "Perú importación",
+        "equipos prensa",
+        "manufactura industrial"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué presión de aire requieren estas prensas neumáticas?",
+        "respuesta": "Típicamente operan entre 6-8 bar (87-116 PSI). Es importante verificar con el proveedor indio las especificaciones exactas y asegurar compatibilidad con sistemas de aire comprimido locales."
+      },
+      {
+        "pregunta": "¿Cuál es la vida útil promedio de estas prensas neumáticas?",
+        "respuesta": "Con mantenimiento adecuado, las prensas neumáticas de calidad india duran 10-15 años. Se recomienda plan de mantenimiento preventivo anual."
+      }
+    ]
+  },
+  {
+    "slug": "importar-bombas-centrifugas-agua-china-mexico",
+    "producto": "Bombas centrífugas para agua 3-10 HP",
+    "hs_code": "841380",
+    "origen": "China",
+    "destino": "México",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 4,
+    "iva_pct": 16,
+    "gastos_puerto_usd": 380,
+    "gastos_despacho_agente_usd": 310,
+    "flete_estimado_m3_usd": 95,
+    "permisos_especiales": "Certificado de origen, Especificación de materiales (fundición/acero), Pruebas de desempeño hidráulico",
+    "seo": {
+      "titulo_h1": "Importar Bombas Centrífugas desde China a México",
+      "meta_description": "Guía completa para importar bombas centrífugas para agua desde China hacia México. Especificaciones, costos y requisitos aduanales.",
+      "keywords": [
+        "bombas centrífugas",
+        "bombas agua",
+        "maquinaria China",
+        "México",
+        "riego industrial",
+        "sistemas hidráulicos"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué materiales utilizan las bombas centrífugas chinas estándar?",
+        "respuesta": "Generalmente utilizan carcasa de fundición gris o hierro dúctil, impulsores de bronce o acero inoxidable. Se recomienda especificar materiales según aplicación (agua dulce, salada o con sedimentos)."
+      },
+      {
+        "pregunta": "¿Cuáles son los caudales y alturas de bombeo típicas?",
+        "respuesta": "Varían desde 10 m³/h hasta 150 m³/h, con alturas de bombeo de 10 a 100 metros según modelo. El proveedor chino debe especificar curva de desempeño."
+      }
+    ]
+  },
+  {
+    "slug": "importar-franjas-transportadora-neopreno-india-colombia",
+    "producto": "Bandas transportadoras de neopreno resistente a químicos",
+    "hs_code": "401120",
+    "origen": "India",
+    "destino": "Colombia",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 8,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 350,
+    "gastos_despacho_agente_usd": 280,
+    "flete_estimado_m3_usd": 85,
+    "permisos_especiales": "Certificado de composición química, Datos técnicos de resistencia, Etiquetado de especificaciones de uso",
+    "seo": {
+      "titulo_h1": "Importar Bandas Transportadoras de Neopreno desde India a Colombia",
+      "meta_description": "Importación de franjas transportadoras resistentes a químicos desde India. Especificaciones técnicas y aplicaciones industriales.",
+      "keywords": [
+        "bandas transportadoras",
+        "neopreno industrial",
+        "India Colombia",
+        "sistemas conveyors",
+        "manufactura"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es la resistencia química de las bandas de neopreno indias?",
+        "respuesta": "Son resistentes a ácidos débiles, grasas, aceites y muchos disolventes orgánicos. Para ácidos fuertes o alcalinos se recomienda especificar requisitos químicos específicos con el fabricante."
+      },
+      {
+        "pregunta": "¿Cuál es la vida útil promedio de estas bandas transportadoras?",
+        "respuesta": "Con uso normal y mantenimiento adecuado, duran entre 3-5 años. La vida útil depende de velocidad de transporte, tensión aplicada y condiciones ambientales."
+      }
+    ]
+  },
+  {
+    "slug": "importar-centrifugas-laboratorio-precision-eeuu-peru",
+    "producto": "Centrífugas de laboratorio de precisión 5000-16000 RPM",
+    "hs_code": "842410",
+    "origen": "Estados Unidos",
+    "destino": "Perú",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 3,
+    "iva_pct": 18,
+    "gastos_puerto_usd": 390,
+    "gastos_despacho_agente_usd": 300,
+    "flete_estimado_m3_usd": 100,
+    "permisos_especiales": "Certificación de precisión calibrada, Documentación técnica en español, Registro ante Ministerio de Salud si es para uso sanitario",
+    "seo": {
+      "titulo_h1": "Importar Centrífugas de Laboratorio desde Estados Unidos a Perú",
+      "meta_description": "Importación de centrífugas de precisión para laboratorios desde fabricantes estadounidenses hacia Perú. Especificaciones técnicas y calibración.",
+      "keywords": [
+        "centrífugas laboratorio",
+        "precisión científica",
+        "Estados Unidos",
+        "Perú",
+        "equipamiento médico",
+        "laboratorios clínicos"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué tipo de calibración viene incluida en las centrífugas importadas?",
+        "respuesta": "Las centrífugas estadounidenses incluyen calibración de fábrica con certificado. Se recomienda realizar recalibración local en Perú cada 12 meses según ISO 3691-4."
+      },
+      {
+        "pregunta": "¿Cuál es el tiempo de capacitación para operadores peruanos?",
+        "respuesta": "Generalmente 1-2 días de capacitación son suficientes. Muchos fabricantes ofrecen webinarios y documentación detallada en español."
+      }
+    ]
+  },
+  {
+    "slug": "importar-cemento-portland-china-peru",
+    "producto": "Cemento Portland gris tipo I en sacos de 50 kg",
+    "hs_code": "252310",
+    "origen": "China",
+    "destino": "Perú",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 6,
+    "iva_pct": 18,
+    "gastos_puerto_usd": 850,
+    "gastos_despacho_agente_usd": 450,
+    "flete_estimado_m3_usd": 45,
+    "permisos_especiales": "Certificación de calidad INDECOPI, análisis de composición química",
+    "seo": {
+      "titulo_h1": "Importar Cemento Portland de China a Perú - Guía Comercial B2B",
+      "meta_description": "Importación de cemento Portland gris tipo I desde China a Perú. Trámites, aranceles, certificaciones y precios para distribuidores.",
+      "keywords": [
+        "importar cemento China Perú",
+        "cemento Portland tipo I",
+        "distribución materiales construcción",
+        "comercio B2B cemento"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué certificaciones requiere el cemento Portland para ingresar a Perú?",
+        "respuesta": "El cemento debe contar con certificación INDECOPI que acredite el cumplimiento de la Norma Técnica Peruana NTP 334.009. Además, es obligatorio presentar análisis de composición química y resistencia a compresión realizados en laboratorio acreditado."
+      },
+      {
+        "pregunta": "¿Cuál es el volumen mínimo de importación recomendado?",
+        "respuesta": "Se recomienda un mínimo de 20 contenedores de 20 pies (aproximadamente 500 toneladas) para optimizar costos logísticos. Compras menores pueden realizarse pero con costos unitarios significativamente mayores."
+      }
+    ]
+  },
+  {
+    "slug": "importar-barras-acero-refuerzo-india-colombia",
+    "producto": "Barras de acero de refuerzo corrugadas calibre 8-12 mm",
+    "hs_code": "721620",
+    "origen": "India",
+    "destino": "Colombia",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 5,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 920,
+    "gastos_despacho_agente_usd": 380,
+    "flete_estimado_m3_usd": 38,
+    "permisos_especiales": "Certificado de conformidad ICONTEC, pruebas de tensión y ductilidad",
+    "seo": {
+      "titulo_h1": "Importación de Barras de Acero de Refuerzo desde India a Colombia",
+      "meta_description": "Compra y distribución de barras de acero corrugadas calibre 8-12mm de India a Colombia. Certificaciones, precios y trámites aduanales B2B.",
+      "keywords": [
+        "barras acero refuerzo India",
+        "acero construcción Colombia",
+        "barras corrugadas importación",
+        "material acero estructural"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué estándares de calidad deben cumplir las barras de acero de refuerzo?",
+        "respuesta": "Las barras deben cumplir con la norma ASTM A615 o equivalente, con certificado ICONTEC en Colombia. Se requieren pruebas de límite de fluencia, resistencia a la tensión y elongación mínima del 12%."
+      },
+      {
+        "pregunta": "¿Cuál es el tiempo de entrega típico desde India a Colombia?",
+        "respuesta": "El tiempo de tránsito marítimo es aproximadamente 28-35 días desde puertos indios como Paradip o Visakhapatnam hasta Cartagena o Buenaventura, más 5-7 días para trámites aduanales."
+      }
+    ]
+  },
+  {
+    "slug": "importar-tuberia-pvc-presion-china-mexico",
+    "producto": "Tuberías PVC presión clase 10 diámetros 50-110 mm",
+    "hs_code": "391723",
+    "origen": "China",
+    "destino": "México",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 7,
+    "iva_pct": 16,
+    "gastos_puerto_usd": 780,
+    "gastos_despacho_agente_usd": 420,
+    "flete_estimado_m3_usd": 42,
+    "permisos_especiales": "Certificado ONNCCE, aprobación CONAGUA para aplicaciones de agua potable",
+    "seo": {
+      "titulo_h1": "Importar Tuberías PVC de Presión desde China a México - Guía B2B",
+      "meta_description": "Importación de tuberías PVC clase 10 desde China a México. Requisitos de certificación, aranceles y distribución para proyectos de abastecimiento de agua.",
+      "keywords": [
+        "tuberías PVC México",
+        "tubería presión clase 10",
+        "importación materiales hidráulicos",
+        "distribución PVC China"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué certificaciones son obligatorias para tuberías PVC en México?",
+        "respuesta": "Es obligatorio contar con certificación ONNCCE (Órgano de Normalización y Certificación de Conformidad de la Edificación) y aprobación de CONAGUA si la tubería será utilizada en sistemas de agua potable o riego."
+      },
+      {
+        "pregunta": "¿Cuál es la vida útil de las tuberías PVC importadas de China?",
+        "respuesta": "Las tuberías PVC de calidad tienen una vida útil de 50-70 años cuando se instalan correctamente. Se recomienda verificar el año de manufactura al recibir la importación."
+      }
+    ]
+  },
+  {
+    "slug": "importar-losetas-ceramica-decorativas-india-chile",
+    "producto": "Losetas de cerámica esmaltada 30x30 cm patrones decorativos",
+    "hs_code": "690890",
+    "origen": "India",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 8,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 1100,
+    "gastos_despacho_agente_usd": 520,
+    "flete_estimado_m3_usd": 52,
+    "permisos_especiales": "Certificación de no toxicidad de esmaltes, registro ante SERNAC",
+    "seo": {
+      "titulo_h1": "Importación de Losetas Cerámica Decorativas desde India a Chile",
+      "meta_description": "Distribución de losetas cerámica esmaltada 30x30cm desde India a Chile. Diseños decorativos, precios mayoristas y trámites de importación.",
+      "keywords": [
+        "losetas cerámica India",
+        "decoración construcción Chile",
+        "importación azulejos decorativos",
+        "cerámica esmaltada"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Los esmaltes de las losetas cerámica de India cumplen estándares de seguridad?",
+        "respuesta": "Sí, pero se requiere certificación que acredite la ausencia de metales pesados en los esmaltes (principalmente plomo y cadmio) según estándares internacionales ISO 13006."
+      },
+      {
+        "pregunta": "¿Cuál es la resistencia al tráfico de estas losetas?",
+        "respuesta": "Las losetas de cerámica decorativa de 30x30 cm son adecuadas para interiores y espacios de bajo a medio tráfico. Para comercios de alto tráfico se recomiendan espesores mayores o formatos más grandes."
+      }
+    ]
+  },
+  {
+    "slug": "importar-pinturas-industriales-epoxico-eeuu-peru",
+    "producto": "Pintura epoxi bicomponente para acero estructural 20 litros",
+    "hs_code": "320290",
+    "origen": "Estados Unidos",
+    "destino": "Perú",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 6,
+    "iva_pct": 18,
+    "gastos_puerto_usd": 640,
+    "gastos_despacho_agente_usd": 380,
+    "flete_estimado_m3_usd": 35,
+    "permisos_especiales": "Certificado de composición segura, Hoja de datos de seguridad (MSDS), aprobación ambiental",
+    "seo": {
+      "titulo_h1": "Importar Pintura Epoxi Industrial desde Estados Unidos a Perú",
+      "meta_description": "Distribución de pintura epoxi bicomponente para acero desde USA a Perú. Especificaciones técnicas, certificaciones y precios B2B.",
+      "keywords": [
+        "pintura epoxi Perú",
+        "revestimiento acero industrial",
+        "importación pinturas USA",
+        "protección anticorrosiva"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es el tiempo de secado de la pintura epoxi importada?",
+        "respuesta": "El tiempo de secado típico es de 24-48 horas a temperatura ambiente (20-25°C), pero en climas más cálidos como el de Perú puede reducirse a 12-18 horas. Se requiere preparación correcta del sustrato para garantizar adherencia."
+      },
+      {
+        "pregunta": "¿Qué requisitos de almacenamiento tiene la pintura epoxi?",
+        "respuesta": "Debe almacenarse en lugar seco y fresco (15-25°C) en contenedores sellados originales. La vida útil del producto sin abrir es de 12 meses aproximadamente."
+      }
+    ]
+  },
+  {
+    "slug": "importar-ferreteria-herrajes-acero-inoxidable-china-colombia",
+    "producto": "Herrajes de acero inoxidable 304 para construcción (bisagras, cerraduras, manijas)",
+    "hs_code": "730890",
+    "origen": "China",
+    "destino": "Colombia",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 9,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 750,
+    "gastos_despacho_agente_usd": 400,
+    "flete_estimado_m3_usd": 40,
+    "permisos_especiales": "Certificado de composición acero inoxidable, certificación de resistencia mecánica",
+    "seo": {
+      "titulo_h1": "Importación de Herrajes Acero Inoxidable desde China a Colombia",
+      "meta_description": "Distribución mayorista de herrajes acero inoxidable 304 desde China a Colombia. Bisagras, cerraduras y manijas para construcción con garantía de calidad.",
+      "keywords": [
+        "herrajes acero inoxidable",
+        "importación ferretería China",
+        "accesorios construcción Colombia",
+        "materiales inoxidables"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cómo verificar que los herrajes son de acero inoxidable 304 genuino?",
+        "respuesta": "Se debe solicitar certificado de análisis químico que acredite la composición (mínimo 18% cromo y 8% níquel). También se puede realizar prueba de imán: el acero 304 es ligeramente magnético pero no debe quedar adherido."
+      },
+      {
+        "pregunta": "¿Cuál es la ventaja del acero inoxidable 304 sobre otros materiales?",
+        "respuesta": "Ofrece excelente resistencia a la corrosión, durabilidad de 20+ años en ambientes húmedos, bajo mantenimiento y aspecto estético superior. Ideal para zonas costeras o ambientes agresivos."
+      }
+    ]
+  },
+  {
+    "slug": "importar-bloques-concreto-ligero-india-mexico",
+    "producto": "Bloques de concreto ligero 15x20x40 cm densidad 1100 kg/m3",
+    "hs_code": "680800",
+    "origen": "India",
+    "destino": "México",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 5,
+    "iva_pct": 16,
+    "gastos_puerto_usd": 920,
+    "gastos_despacho_agente_usd": 450,
+    "flete_estimado_m3_usd": 48,
+    "permisos_especiales": "Certificado de resistencia a compresión, pruebas de absorción de agua",
+    "seo": {
+      "titulo_h1": "Importar Bloques de Concreto Ligero desde India a México",
+      "meta_description": "Distribución de bloques de concreto ligero 15x20x40cm desde India a México. Especificaciones, precios y ventajas constructivas para proyectos.",
+      "keywords": [
+        "bloques concreto ligero",
+        "importación materiales construcción",
+        "concreto aligerado India",
+        "distribución bloques México"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué ventajas tienen los bloques de concreto ligero frente a los tradicionales?",
+        "respuesta": "Pesan 30-40% menos facilitando manipulación, ofrecen mejor aislamiento térmico y acústico, reducen carga en estructuras, y aceleran el proceso constructivo. Mantienen buena resistencia a compresión (mínimo 3.5 MPa)."
+      },
+      {
+        "pregunta": "¿Los bloques ligeros absorben mucha humedad?",
+        "respuesta": "Tienen mayor porosidad que bloques tradicionales, pero bajo especificación india deben tener absorción máxima de 18-20% del peso seco. Se recomienda impermeabilizante en zonas de alto riesgo hídrico."
+      }
+    ]
+  },
+  {
+    "slug": "importar-estructuras-metalicas-vigas-ipm-china-chile",
+    "producto": "Vigas metálicas IPM perfiles laminados en caliente calibres varios",
+    "hs_code": "721320",
+    "origen": "China",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 6,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 1200,
+    "gastos_despacho_agente_usd": 580,
+    "flete_estimado_m3_usd": 44,
+    "permisos_especiales": "Certificado de composición química, pruebas de tracción y doblez, inspección de soldabilidad",
+    "seo": {
+      "titulo_h1": "Importación de Vigas IPM Metálicas desde China a Chile",
+      "meta_description": "Distribución de vigas metálicas IPM laminadas en caliente desde China a Chile. Estructuras para construcción industrial, puentes y proyectos de ingeniería.",
+      "keywords": [
+        "vigas metálicas IPM",
+        "estructuras acero China",
+        "perfiles laminados Chile",
+        "construcción industrial"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué normas internacionales cumplen las vigas IPM de China?",
+        "respuesta": "Deben cumplir con ASTM A36 o equivalente, con certificación de soldabilidad. En Chile se requiere conformidad con NCh427 y certificación de origen del acero."
+      },
+      {
+        "pregunta": "¿Cuál es el tiempo típico de fabricación y entrega?",
+        "respuesta": "Fabricación toma 15-20 días desde confirmación de orden, más 20-25 días de transporte marítimo. Tiempo total aproximado 35-45 días desde negociación inicial."
+      }
+    ]
+  },
+  {
+    "slug": "importar-laminas-yeso-drywall-eeuu-colombia",
+    "producto": "Láminas de yeso drywall estándar 12.5mm x 1.22m x 2.44m",
+    "hs_code": "680900",
+    "origen": "Estados Unidos",
+    "destino": "Colombia",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 8,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 650,
+    "gastos_despacho_agente_usd": 360,
+    "flete_estimado_m3_usd": 38,
+    "permisos_especiales": "Certificación ASTM C1396, registro ante ANLA para verificación de inocuidad",
+    "seo": {
+      "titulo_h1": "Importar Láminas Drywall desde Estados Unidos a Colombia",
+      "meta_description": "Distribución de láminas de yeso drywall 12.5mm desde USA a Colombia. Calidad, precios mayoristas y especificaciones técnicas para proyectos.",
+      "keywords": [
+        "drywall USA Colombia",
+        "láminas yeso importación",
+        "materiales acabado construcción",
+        "drywall estándar"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es la diferencia entre drywall estándar, resistente a la humedad y resistente al fuego?",
+        "respuesta": "Drywall estándar es para interiores secos, el resistente a humedad tiene aditivos anti-moho para baños y cocinas, y el resistente al fuego contiene fibra de vidrio para mejorar clasificación de fuego. El precio varía significativamente."
+      },
+      {
+        "pregunta": "¿Cómo debe transportarse y almacenarse el drywall importado?",
+        "respuesta": "Debe mantener horizontalmente en paletas, protegido de humedad durante transporte. Almacenarse en lugar ventilado, horizontal o levemente inclinado, en altura máxima de 1.5 metros para evitar daño por presión."
+      }
+    ]
+  },
+  {
+    "slug": "importar-membranas-impermeabilizante-asfaltica-india-peru",
+    "producto": "Membranas impermeabilizantes asfálticas auto-adhesivas tipo SBS 1mm x 1m x 20m",
+    "hs_code": "392021",
+    "origen": "India",
+    "destino": "Perú",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 7,
+    "iva_pct": 18,
+    "gastos_puerto_usd": 890,
+    "gastos_despacho_agente_usd": 420,
+    "flete_estimado_m3_usd": 46,
+    "permisos_especiales": "Certificado de elongación y resistencia térmica, prueba de impermeabilidad bajo presión",
+    "seo": {
+      "titulo_h1": "Importación de Membranas Impermeabilizantes Asfálticas desde India a Perú",
+      "meta_description": "Distribución de membranas asfálticas auto-adhesivas desde India a Perú. Protección contra filtraciones, terrazas y estructuras. Precios B2B.",
+      "keywords": [
+        "membranas impermeabilizantes",
+        "asfalto construcción Perú",
+        "protección anti-filtraciones",
+        "importación materiales India"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es la diferencia entre membranas SBS y APP?",
+        "respuesta": "SBS (estireno-butadieno-estireno) son más flexibles y resistentes al frío, ideales para climas fríos. APP (polipropileno atáctico) son más resistentes al calor. Perú requiere evaluar temperatura local; SBS es generalmente más versátil."
+      },
+      {
+        "pregunta": "¿Cuánto tiempo duran las membranas impermeabilizantes asfálticas?",
+        "respuesta": "Con instalación correcta duran 20-30 años. En Perú, donde hay zonas con clima seco, pueden extender su vida útil. Se requiere inspección visual cada 5 años y mantenimiento de juntas."
+      }
+    ]
+  },
+  {
+    "slug": "importar-cascos-seguridad-industrial-china-chile",
+    "producto": "Cascos de seguridad industrial tipo casco duro",
+    "hs_code": "650500",
+    "origen": "China",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 6,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 450,
+    "gastos_despacho_agente_usd": 280,
+    "flete_estimado_m3_usd": 85,
+    "permisos_especiales": "Certificación ANSI Z89.1, Declaración de Conformidad",
+    "seo": {
+      "titulo_h1": "Importar Cascos de Seguridad Industrial desde China hacia Chile",
+      "meta_description": "Guía completa para importar cascos de seguridad industrial de China a Chile. Aranceles, permisos y trámites aduanales actualizados.",
+      "keywords": [
+        "cascos seguridad industrial",
+        "importación China Chile",
+        "equipos protección personal",
+        "casco duro industrial"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué certificación internacional necesitan los cascos de seguridad?",
+        "respuesta": "Los cascos deben cumplir con la norma ANSI Z89.1 (Estados Unidos) o ISO 3873 (internacional). En Chile, se requiere que cumplan con normas de seguridad ocupacional y presentar declaración de conformidad del fabricante."
+      },
+      {
+        "pregunta": "¿Cuál es el tiempo de despacho aduanal para cascos de seguridad?",
+        "respuesta": "Típicamente entre 3-5 días hábiles una vez que la mercancía llega al puerto de Valparaíso. El proceso incluye inspección de documentos, certificaciones y verificación de conformidad."
+      }
+    ]
+  },
+  {
+    "slug": "importar-guantes-nitrilo-proteccion-india-peru",
+    "producto": "Guantes de nitrilo para protección industrial",
+    "hs_code": "401590",
+    "origen": "India",
+    "destino": "Perú",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 5,
+    "iva_pct": 18,
+    "gastos_puerto_usd": 380,
+    "gastos_despacho_agente_usd": 250,
+    "flete_estimado_m3_usd": 72,
+    "permisos_especiales": "Certificación FDA, Registro ante DIGESA Perú",
+    "seo": {
+      "titulo_h1": "Importar Guantes de Nitrilo desde India hacia Perú",
+      "meta_description": "Proceso de importación de guantes de nitrilo de India a Perú. Requisitos sanitarios, aranceles y proveedores certificados.",
+      "keywords": [
+        "guantes nitrilo",
+        "importación India Perú",
+        "equipos protección manos",
+        "guantes industriales"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué documentación sanitaria requieren los guantes de nitrilo en Perú?",
+        "respuesta": "Se necesita certificación FDA, constancia de no toxicidad, y registro ante DIGESA (Dirección General de Salud). Además, debe presentarse análisis de sustancias controladas."
+      },
+      {
+        "pregunta": "¿Cuáles son las principales ventajas de importar guantes de India?",
+        "respuesta": "India es el mayor productor de guantes de nitrilo a nivel mundial con costos competitivos. Ofrece certificaciones internacionales, buena calidad y capacidad para pedidos grandes con entregas rápidas."
+      }
+    ]
+  },
+  {
+    "slug": "importar-arneses-seguridad-caidas-altura-eeuu-colombia",
+    "producto": "Arneses de seguridad para trabajo en alturas",
+    "hs_code": "650690",
+    "origen": "Estados Unidos",
+    "destino": "Colombia",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 8,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 520,
+    "gastos_despacho_agente_usd": 310,
+    "flete_estimado_m3_usd": 95,
+    "permisos_especiales": "Certificación ANSI/ASSE A10.32, Pruebas de resistencia, Declaración de conformidad CE",
+    "seo": {
+      "titulo_h1": "Importar Arneses de Seguridad para Alturas desde USA hacia Colombia",
+      "meta_description": "Guía de importación de arneses anticaídas de Estados Unidos a Colombia. Normas técnicas, certificaciones y procedimientos aduanales.",
+      "keywords": [
+        "arnés seguridad altura",
+        "importación USA Colombia",
+        "equipos anticaídas",
+        "trabajo en alturas"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué normas técnicas debe cumplir un arnés de seguridad para trabajo en alturas?",
+        "respuesta": "Debe cumplir con ANSI/ASSE A10.32, EN 361, o equivalentes internacionales. En Colombia, se requiere certificación de resistencia con carga mínima de 100 kg y pruebas de tracción."
+      },
+      {
+        "pregunta": "¿Cada arnés requiere certificado individual de prueba?",
+        "respuesta": "Generalmente, el fabricante proporciona certificado por lote de producción. Se recomiendan pruebas periódicas cada 12 meses o después de cualquier caída. Los importadores deben mantener registros de inspección."
+      }
+    ]
+  },
+  {
+    "slug": "importar-lentes-seguridad-proteccion-ocular-china-mexico",
+    "producto": "Lentes de seguridad con protección UV y antiarañazos",
+    "hs_code": "900490",
+    "origen": "China",
+    "destino": "México",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 10,
+    "iva_pct": 16,
+    "gastos_puerto_usd": 400,
+    "gastos_despacho_agente_usd": 270,
+    "flete_estimado_m3_usd": 65,
+    "permisos_especiales": "Certificación ANSI Z87.1, Aprobación STPS México",
+    "seo": {
+      "titulo_h1": "Importar Lentes de Seguridad desde China hacia México",
+      "meta_description": "Importación de lentes de protección ocular de China a México. Certificaciones, normativas STPS y trámites aduanales.",
+      "keywords": [
+        "lentes seguridad",
+        "protección ocular industrial",
+        "importación China México",
+        "gafas antiUV"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es la diferencia entre lentes ANSI Z87.1 y Z87+?",
+        "respuesta": "ANSI Z87+ incluye pruebas adicionales de resistencia al impacto de alta velocidad. Para ambientes de riesgo alto (molienda, soldadura), se recomienda Z87+. La certificación debe estar grabada en el lente."
+      },
+      {
+        "pregunta": "¿Requieren trámite especial ante STPS los lentes de seguridad?",
+        "respuesta": "No es obligatorio trámite ante STPS, pero deben cumplir normas NOM vigentes en México. Se recomienda solicitar certificado de conformidad del fabricante y verificación de lote."
+      }
+    ]
+  },
+  {
+    "slug": "importar-mascaras-respiratorias-n95-eeuu-chile",
+    "producto": "Máscaras respiratorias N95 desechables certificadas",
+    "hs_code": "630790",
+    "origen": "Estados Unidos",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 4,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 350,
+    "gastos_despacho_agente_usd": 220,
+    "flete_estimado_m3_usd": 55,
+    "permisos_especiales": "Certificación NIOSH, Registro Sanitario ISP Chile, Declaración de conformidad",
+    "seo": {
+      "titulo_h1": "Importar Máscaras N95 desde Estados Unidos hacia Chile",
+      "meta_description": "Guía de importación de máscaras respiratorias N95 de USA a Chile. Requisitos sanitarios, certificación NIOSH y procedimientos aduanales.",
+      "keywords": [
+        "máscaras N95",
+        "importación USA Chile",
+        "equipos respiración",
+        "protección respiratoria"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es la vida útil de una máscara N95 después de ser desempacada?",
+        "respuesta": "Una máscara N95 certificada NIOSH puede ser reutilizada hasta 40 horas de uso acumulativo. Debe reemplazarse si está húmeda, deformada o visiblemente dañada. En Chile, se requiere certificación de lote con fecha de caducidad."
+      },
+      {
+        "pregunta": "¿Qué diferencia existe entre N95, KN95 y FFP2?",
+        "respuesta": "N95 (Estados Unidos), KN95 (China) y FFP2 (Europa) son estándares equivalentes. Para importación a Chile desde USA, se acepta NIOSH. Si proviene de China, requiere validación adicional ante ISP."
+      }
+    ]
+  },
+  {
+    "slug": "importar-botas-seguridad-puntera-acero-india-colombia",
+    "producto": "Botas de seguridad con puntera de acero y suela antideslizante",
+    "hs_code": "640620",
+    "origen": "India",
+    "destino": "Colombia",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 9,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 420,
+    "gastos_despacho_agente_usd": 290,
+    "flete_estimado_m3_usd": 78,
+    "permisos_especiales": "Certificación ISO 20345, Registro ante ICONTEC Colombia",
+    "seo": {
+      "titulo_h1": "Importar Botas de Seguridad desde India hacia Colombia",
+      "meta_description": "Importación de botas de seguridad con puntera de acero de India a Colombia. Normas ISO, certificaciones y proveedores confiables.",
+      "keywords": [
+        "botas seguridad acero",
+        "importación India Colombia",
+        "equipos protección pies",
+        "botas industriales"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué estándar internacional deben cumplir las botas de seguridad?",
+        "respuesta": "Deben cumplir ISO 20345 como mínimo. Esta norma especifica requisitos para puntera, suela antideslizante, resistencia al agua y tracción. En Colombia, se valida mediante certificación de ICONTEC o laboratorios acreditados."
+      },
+      {
+        "pregunta": "¿Cuál es el tiempo de vida útil de una bota de seguridad industrial?",
+        "respuesta": "Generalmente 6-12 meses dependiendo del uso intensivo. Se recomienda inspección mensual. Las botas de buena calidad de India mantienen especificaciones técnicas durante este período."
+      }
+    ]
+  },
+  {
+    "slug": "importar-sistemas-proteccion-caidas-red-seguridad-china-peru",
+    "producto": "Redes de seguridad para protección contra caídas",
+    "hs_code": "590390",
+    "origen": "China",
+    "destino": "Perú",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 7,
+    "iva_pct": 18,
+    "gastos_puerto_usd": 520,
+    "gastos_despacho_agente_usd": 340,
+    "flete_estimado_m3_usd": 120,
+    "permisos_especiales": "Certificación EN 1263-1, Pruebas de impacto y carga, Declaración de conformidad",
+    "seo": {
+      "titulo_h1": "Importar Redes de Seguridad desde China hacia Perú",
+      "meta_description": "Guía de importación de redes de protección contra caídas de China a Perú. Normas EN, certificaciones técnicas y procedimientos aduanales.",
+      "keywords": [
+        "redes seguridad caídas",
+        "importación China Perú",
+        "sistemas protección",
+        "redes anticaída"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es la capacidad de carga máxima de una red de seguridad estándar?",
+        "respuesta": "Las redes certificadas EN 1263-1 deben soportar una carga de impacto de 6 kN por punto. La capacidad total depende del tamaño de la malla y el material. Se requieren pruebas de impacto con peso de 100 kg desde 1.5 metros de altura."
+      },
+      {
+        "pregunta": "¿Qué mantenimiento requieren las redes de seguridad?",
+        "respuesta": "Inspección visual mensual, limpieza anual y prueba de resistencia cada 2 años. En Perú, se debe mantener registro de inspecciones. La vida útil es de 5-7 años si se mantienen adecuadamente."
+      }
+    ]
+  },
+  {
+    "slug": "importar-chaleco-reflectivo-visibilidad-eeuu-mexico",
+    "producto": "Chalecos reflectivos de alta visibilidad para trabajo vial",
+    "hs_code": "610890",
+    "origen": "Estados Unidos",
+    "destino": "México",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 11,
+    "iva_pct": 16,
+    "gastos_puerto_usd": 380,
+    "gastos_despacho_agente_usd": 260,
+    "flete_estimado_m3_usd": 68,
+    "permisos_especiales": "Certificación ANSI/ISEA 107-2015, Aprobación regulatoria México",
+    "seo": {
+      "titulo_h1": "Importar Chalecos Reflectivos desde Estados Unidos hacia México",
+      "meta_description": "Importación de chalecos de alta visibilidad de USA a México. Normas ANSI, certificaciones y cumplimiento normativo vial.",
+      "keywords": [
+        "chaleco reflectivo",
+        "visibilidad alta",
+        "importación USA México",
+        "ropa trabajo seguridad"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cuáles son las clases de chaleco reflectivo según ANSI/ISEA 107?",
+        "respuesta": "Existen 3 clases: Clase 1 (bajo riesgo), Clase 2 (riesgo moderado) y Clase 3 (alto riesgo). Cada clase requiere áreas mínimas de material reflectivo y fluorescente. Para trabajo vial en México, generalmente se exige Clase 2 o superior."
+      },
+      {
+        "pregunta": "¿Tiene requisito de durabilidad el material reflectivo?",
+        "respuesta": "Sí, los materiales reflectivos deben mantener propiedades después de 50 lavadas industriales. En México, se verifican estas especificaciones mediante pruebas de laboratorio acreditado."
+      }
+    ]
+  },
+  {
+    "slug": "importar-equipos-proteccion-facial-mascaras-soldar-china-chile",
+    "producto": "Máscaras de soldadura con filtro oscuro automático",
+    "hs_code": "650690",
+    "origen": "China",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 6,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 400,
+    "gastos_despacho_agente_usd": 280,
+    "flete_estimado_m3_usd": 80,
+    "permisos_especiales": "Certificación AS/NZS 1337.1, Declaración de conformidad, Pruebas ópticas",
+    "seo": {
+      "titulo_h1": "Importar Máscaras de Soldadura desde China hacia Chile",
+      "meta_description": "Guía de importación de máscaras de soldadura con filtro automático de China a Chile. Normas técnicas y certificaciones de seguridad.",
+      "keywords": [
+        "máscara soldadura",
+        "filtro automático",
+        "importación China Chile",
+        "equipos soldadura"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué rango de oscurecimiento es seguro para la soldadura?",
+        "respuesta": "El rango recomendado es entre tonalidad 8 a 13, según el tipo y amperaje de soldadura. Las máscaras automáticas deben cambiar de transparencia a oscuro en menos de 1 milisegundo para proteger la vista."
+      },
+      {
+        "pregunta": "¿Cuál es la vida útil de las pilas en máscaras automáticas?",
+        "respuesta": "Generalmente 300-500 horas de uso continuo. Las pilas/baterías deben reemplazarse anualmente en uso intensivo. Se requiere verificar fecha de fabricación al importar."
+      }
+    ]
+  },
+  {
+    "slug": "importar-cinturon-herramientas-trabajo-seguro-india-colombia",
+    "producto": "Cinturones para herramientas con protección y anclaje",
+    "hs_code": "650690",
+    "origen": "India",
+    "destino": "Colombia",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 8,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 380,
+    "gastos_despacho_agente_usd": 250,
+    "flete_estimado_m3_usd": 70,
+    "permisos_especiales": "Certificación EN 358, Pruebas de resistencia a tracción, Conformidad ISO",
+    "seo": {
+      "titulo_h1": "Importar Cinturones de Herramientas desde India hacia Colombia",
+      "meta_description": "Importación de cinturones de trabajo con anclaje de India a Colombia. Normas de seguridad, capacidad de carga y certificaciones técnicas.",
+      "keywords": [
+        "cinturón herramientas",
+        "anclaje seguridad",
+        "importación India Colombia",
+        "equipos trabajo altura"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es la capacidad de carga máxima recomendada para un cinturón de herramientas?",
+        "respuesta": "Generalmente no debe exceder 20 kg. Según EN 358, los puntos de anclaje deben resistir mínimo 15 kN. Cargas mayores requieren sistemas de distribución adicional."
+      },
+      {
+        "pregunta": "¿Qué mantenimiento requieren los cinturones de herramientas?",
+        "respuesta": "Inspección visual mensual, limpieza con agua y jabón, secado natural. Verificar que costuras y anclajes no estén dañados. Reemplazar cada 3-5 años según uso intensivo."
+      }
+    ]
+  },
+  {
+    "slug": "importar-teclados-mecanicos-gaming-china-chile",
+    "producto": "Teclados mecánicos para gaming",
+    "hs_code": "847130",
+    "origen": "China",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 6,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 450,
+    "gastos_despacho_agente_usd": 320,
+    "flete_estimado_m3_usd": 85,
+    "permisos_especiales": "Certificación de compatibilidad electromagnética (EMC), Declaración de conformidad",
+    "seo": {
+      "titulo_h1": "Importar Teclados Mecánicos Gaming desde China a Chile | Guía Completa",
+      "meta_description": "Descubre cómo importar teclados mecánicos para gaming desde China a Chile. Costos, aranceles, permisos y requisitos aduanales.",
+      "keywords": [
+        "importar teclados gaming",
+        "teclados mecanicos china chile",
+        "proveedores teclados gaming",
+        "arancel teclados electrónicos",
+        "importación equipos gaming"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué certificaciones necesito para importar teclados mecánicos a Chile?",
+        "respuesta": "Los teclados mecánicos deben cumplir con certificación EMC (Compatibilidad Electromagnética) y contar con declaración de conformidad CE o equivalente. Además, deben cumplir con normativas de seguridad eléctrica según la regulación chilena."
+      },
+      {
+        "pregunta": "¿Cuál es el tiempo promedio de despacho aduanal para teclados gaming?",
+        "respuesta": "El tiempo promedio de despacho aduanal es de 3 a 5 días hábiles en el puerto de Valparaíso o San Antonio, siempre que la documentación esté completa y el producto cumpla con todos los requisitos de importación."
+      }
+    ]
+  },
+  {
+    "slug": "importar-cables-usb-tipo-c-india-colombia",
+    "producto": "Cables USB tipo C de carga rápida",
+    "hs_code": "854389",
+    "origen": "India",
+    "destino": "Colombia",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 5,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 380,
+    "gastos_despacho_agente_usd": 280,
+    "flete_estimado_m3_usd": 65,
+    "permisos_especiales": "Certificación UL o equivalente, Declaración de conformidad según estándares USB-IF",
+    "seo": {
+      "titulo_h1": "Importar Cables USB Tipo C desde India a Colombia | Proceso y Costos",
+      "meta_description": "Guía completa para importar cables USB tipo C desde India a Colombia. Aranceles, certificaciones, gastos de envío y trámites aduanales.",
+      "keywords": [
+        "importar cables usb-c",
+        "cables tipo c india",
+        "distribuidor cables carga rápida",
+        "aranceles cables electrónicos",
+        "importación accesorios tecnología"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cómo verifico que los cables cumplen con el estándar USB-IF?",
+        "respuesta": "Solicita al proveedor indio el certificado de conformidad USB-IF y documentación técnica que certifique que los cables soportan la velocidad de datos especificada. También puedes solicitar muestras para pruebas previas a la importación."
+      },
+      {
+        "pregunta": "¿Hay restricciones de cantidad para importación de cables USB-C a Colombia?",
+        "respuesta": "No hay límites de cantidad específicos para cables USB-C. Sin embargo, si importas para reventa, necesitarás registro como importador comercial ante la DIAN (Dirección de Impuestos y Aduanas Nacionales)."
+      }
+    ]
+  },
+  {
+    "slug": "importar-sillas-escritorio-ergonomicas-china-peru",
+    "producto": "Sillas de escritorio ergonómicas ajustables",
+    "hs_code": "940190",
+    "origen": "China",
+    "destino": "Perú",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 10,
+    "iva_pct": 18,
+    "gastos_puerto_usd": 520,
+    "gastos_despacho_agente_usd": 350,
+    "flete_estimado_m3_usd": 120,
+    "permisos_especiales": "Certificación de seguridad de muebles, Cumplimiento de normas de materiales según INDECOPI",
+    "seo": {
+      "titulo_h1": "Importar Sillas Ergonómicas desde China a Perú | Guía de Importación",
+      "meta_description": "Aprende a importar sillas de escritorio ergonómicas desde China a Perú. Costos totales, aranceles, normativas y proceso aduanal completo.",
+      "keywords": [
+        "importar sillas ergonomicas",
+        "sillas office china peru",
+        "distribuidor muebles oficina",
+        "arancel muebles importacion",
+        "sillas ajustables altura"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué normas de seguridad debe cumplir una silla ergonómica para Perú?",
+        "respuesta": "Las sillas deben cumplir con normativas de seguridad de muebles según INDECOPI, incluyendo resistencia estructural, estabilidad de base y materiales no tóxicos. Se recomienda solicitar certificación de conformidad al fabricante chino."
+      },
+      {
+        "pregunta": "¿Cuál es el volumen mínimo para importar sillas ergonómicas directamente desde fábrica?",
+        "respuesta": "La mayoría de fabricantes chinos requieren pedidos mínimos de 100 a 200 unidades por modelo. Para lotes menores, puedes usar traders o distribuidores que consolidan contenedores."
+      }
+    ]
+  },
+  {
+    "slug": "importar-monitores-led-24-pulgadas-estados-unidos-mexico",
+    "producto": "Monitores LED 24 pulgadas Full HD",
+    "hs_code": "852872",
+    "origen": "Estados Unidos",
+    "destino": "México",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 3,
+    "iva_pct": 16,
+    "gastos_puerto_usd": 410,
+    "gastos_despacho_agente_usd": 290,
+    "flete_estimado_m3_usd": 110,
+    "permisos_especiales": "Certificación FCC, Cumplimiento NORMA DOF de México para equipos eléctricos",
+    "seo": {
+      "titulo_h1": "Importar Monitores LED 24 pulgadas desde USA a México | Costos y Requisitos",
+      "meta_description": "Guía paso a paso para importar monitores LED desde Estados Unidos a México. Aranceles bajos, certificaciones y trámites aduanales necesarios.",
+      "keywords": [
+        "importar monitores led",
+        "monitores full hd usa mexico",
+        "proveedores equipos electrónicos",
+        "arancel monitores importación",
+        "distribuidor equipos oficina"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Los monitores importados de USA requieren conversión de voltaje para México?",
+        "respuesta": "No es necesario. Los monitores fabricados en USA cumplen con estándar dual voltage (110-240V), lo que permite su uso directo en México sin conversores. Verifica en la etiqueta especificaciones de voltaje."
+      },
+      {
+        "pregunta": "¿Qué tiempo tarda el despacho aduanal de monitores en puertos mexicanos?",
+        "respuesta": "El despacho típicamente toma 2 a 4 días hábiles en puertos como Lázaro Cárdenas o Los Cabos, dependiendo de la completitud de documentación y si requiere inspección física de la mercancía."
+      }
+    ]
+  },
+  {
+    "slug": "importar-fuentes-poder-modular-gaming-china-colombia",
+    "producto": "Fuentes de poder modulares 750W para gaming",
+    "hs_code": "850440",
+    "origen": "China",
+    "destino": "Colombia",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 8,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 470,
+    "gastos_despacho_agente_usd": 310,
+    "flete_estimado_m3_usd": 95,
+    "permisos_especiales": "Certificación UL/FCC, Cumplimiento estándares de eficiencia energética 80+ Gold, Declaración de conformidad CE",
+    "seo": {
+      "titulo_h1": "Importar Fuentes de Poder Modulares Gaming desde China a Colombia",
+      "meta_description": "Importa fuentes de poder modular 750W desde China a Colombia. Precios, aranceles, certificaciones requeridas y proceso aduanal completo.",
+      "keywords": [
+        "importar fuentes poder gaming",
+        "psu modular china",
+        "distribuidor equipos gaming",
+        "aranceles equipos eléctricos",
+        "fuentes 80+ gold certificadas"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Por qué es importante la certificación 80+ Gold en fuentes de poder?",
+        "respuesta": "La certificación 80+ Gold garantiza una eficiencia mínima del 87% en conversión de energía, reduciendo consumo eléctrico y calor. Es requisito en muchos mercados latinoamericanos para garantizar calidad y conformidad normativa."
+      },
+      {
+        "pregunta": "¿Qué documentos debe proporcionar el fabricante chino para cumplir regulaciones en Colombia?",
+        "respuesta": "El fabricante debe proveer certificado UL o FCC, Declaración de Conformidad CE, especificaciones técnicas de eficiencia, manuales de usuario en español y garantía válida en el país de destino."
+      }
+    ]
+  },
+  {
+    "slug": "importar-cartuchos-tinta-impresoras-india-chile",
+    "producto": "Cartuchos de tinta compatibles para impresoras",
+    "hs_code": "844399",
+    "origen": "India",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 6,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 380,
+    "gastos_despacho_agente_usd": 270,
+    "flete_estimado_m3_usd": 45,
+    "permisos_especiales": "Declaración de ausencia de materiales peligrosos, Certificado de origen comercial",
+    "seo": {
+      "titulo_h1": "Importar Cartuchos de Tinta desde India a Chile | Guía Completa",
+      "meta_description": "Cómo importar cartuchos de tinta compatibles desde India a Chile. Aranceles bajos, requisitos y ventajas comerciales para distribuidores.",
+      "keywords": [
+        "importar cartuchos tinta",
+        "cartuchos compatibles india",
+        "distribuidor suministros oficina",
+        "arancel consumibles electrónicos",
+        "tinta impresoras genérica"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Los cartuchos compatibles infringen derechos de marca en Chile?",
+        "respuesta": "Los cartuchos compatibles (no marcados como originales) son legales en Chile si no usurpan marcas registradas. Sin embargo, deben ser claramente etiquetados como 'compatibles' y no 'originales' para evitar fraude comercial."
+      },
+      {
+        "pregunta": "¿Qué requisitos sanitarios tienen los cartuchos de tinta para importación?",
+        "respuesta": "Los cartuchos de tinta deben contar con Declaración de Ausencia de Sustancias Controladas y cumplir regulaciones de transporte de líquidos. La mayoría de proveedores indios ya cuenta con estas certificaciones."
+      }
+    ]
+  },
+  {
+    "slug": "importar-discos-duros-externos-ssd-china-peru",
+    "producto": "Discos duros externos SSD 1TB USB 3.0",
+    "hs_code": "847160",
+    "origen": "China",
+    "destino": "Perú",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 6,
+    "iva_pct": 18,
+    "gastos_puerto_usd": 420,
+    "gastos_despacho_agente_usd": 300,
+    "flete_estimado_m3_usd": 75,
+    "permisos_especiales": "Certificación de compatibilidad electromagnética (EMC), Declaración de conformidad tecnológica",
+    "seo": {
+      "titulo_h1": "Importar Discos Duros Externos SSD desde China a Perú | Proceso y Costos",
+      "meta_description": "Guía para importar discos duros SSD externos desde China a Perú. Aranceles, certificaciones, proveedores confiables y trámites aduanales.",
+      "keywords": [
+        "importar discos duros ssd",
+        "ssd externo china peru",
+        "almacenamiento externo portátil",
+        "arancel dispositivos electrónicos",
+        "distribuidor accesorios computadora"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué velocidad de transferencia debo verificar en los SSD externos?",
+        "respuesta": "Para SSD con USB 3.0, la velocidad teórica máxima es de 400 MB/s. Verifica en especificaciones técnicas que el SSD alcance al menos 300-350 MB/s en lectura. Solicita pruebas de rendimiento al fabricante chino."
+      },
+      {
+        "pregunta": "¿Incluyen garantía internacional los SSD importados desde China?",
+        "respuesta": "Depende del fabricante. Algunos ofrecen garantía limitada de 1-2 años válida internacionalmente, otros solo en China. Negocia con el proveedor que incluya garantía válida en Perú o asume riesgo de defectos después de importación."
+      }
+    ]
+  },
+  {
+    "slug": "importar-webcams-full-hd-estados-unidos-colombia",
+    "producto": "Webcámaras Full HD 1080p con micrófono integrado",
+    "hs_code": "852851",
+    "origen": "Estados Unidos",
+    "destino": "Colombia",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 4,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 390,
+    "gastos_despacho_agente_usd": 280,
+    "flete_estimado_m3_usd": 70,
+    "permisos_especiales": "Certificación FCC, Cumplimiento RESOLUCION 1512 de VIMEO Colombia para dispositivos de captura",
+    "seo": {
+      "titulo_h1": "Importar Webcámaras Full HD desde USA a Colombia | Guía Completa",
+      "meta_description": "Cómo importar webcámaras 1080p desde Estados Unidos a Colombia. Aranceles reducidos, certificaciones y ventajas para distribuidores de tecnología.",
+      "keywords": [
+        "importar webcamaras hd",
+        "camara web usa colombia",
+        "distribuidor equipos audiovisual",
+        "arancel dispositivos captura",
+        "webcam profesional importacion"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Las webcámaras importadas incluyen software de reconocimiento facial?",
+        "respuesta": "Las webcámaras por sí solas no incluyen software. Algunos modelos vienen con software básico de grabación. Para reconocimiento facial, necesitas software adicional compatible con el sistema operativo del usuario."
+      },
+      {
+        "pregunta": "¿Qué compatibilidad tienen las webcámaras USA con sistemas Linux en Colombia?",
+        "respuesta": "Las webcámaras USB estándar son universales. Sin embargo, verifica que sean compatibles con sistemas Linux. La mayoría de webcámaras profesionales USA funcionan con Linux nativo o requieren controladores disponibles en repositorios."
+      }
+    ]
+  },
+  {
+    "slug": "importar-adaptadores-hdmi-dvi-china-mexico",
+    "producto": "Adaptadores HDMI a DVI con cable integrado",
+    "hs_code": "854380",
+    "origen": "China",
+    "destino": "México",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 5,
+    "iva_pct": 16,
+    "gastos_puerto_usd": 320,
+    "gastos_despacho_agente_usd": 240,
+    "flete_estimado_m3_usd": 30,
+    "permisos_especiales": "Certificación de compatibilidad electromagnética HDMI, Declaración de conformidad",
+    "seo": {
+      "titulo_h1": "Importar Adaptadores HDMI DVI desde China a México | Proceso y Aranceles",
+      "meta_description": "Guía para importar adaptadores HDMI a DVI desde China a México. Bajo costo, rápido despacho y requisitos mínimos para distribuidores.",
+      "keywords": [
+        "importar adaptadores hdmi",
+        "conector hdmi dvi china",
+        "distribuidor cables conectores",
+        "arancel accesorios electrónicos",
+        "adaptadores compatibilidad video"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Todos los adaptadores HDMI-DVI son bidireccionales?",
+        "respuesta": "No todos. Existen adaptadores pasivos unidireccionales (HDMI a DVI) y bidireccionales (con chip conversor). Los pasivos son más económicos pero no funcionan en ambas direcciones. Especifica si necesitas bidireccional al proveedor."
+      },
+      {
+        "pregunta": "¿Requiero inspección física en aduanas para adaptadores de pequeño volumen?",
+        "respuesta": "Los adaptadores de bajo peso y volumen generalmente no requieren inspección física si la documentación está correcta. Sin embargo, México puede inspeccionar lotes grandes aleatoriamente por normas de seguridad electromagnética."
+      }
+    ]
+  },
+  {
+    "slug": "importar-bases-refrigeración-laptop-india-chile",
+    "producto": "Bases refrigeradoras para laptop con 2 ventiladores",
+    "hs_code": "847989",
+    "origen": "India",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 7,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 360,
+    "gastos_despacho_agente_usd": 260,
+    "flete_estimado_m3_usd": 55,
+    "permisos_especiales": "Certificación de seguridad eléctrica según normativa IEC, Declaración de ausencia de materiales peligrosos",
+    "seo": {
+      "titulo_h1": "Importar Bases Refrigeradoras para Laptop desde India a Chile",
+      "meta_description": "Cómo importar bases enfriadores para laptop desde India a Chile. Costos, aranceles, requisitos de seguridad y proceso aduanal completo.",
+      "keywords": [
+        "importar bases refrigerador laptop",
+        "cooler notebook india",
+        "distribuidor accesorios computadora",
+        "arancel ventiladores enfriamiento",
+        "base refrigeracion portatil"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué especificaciones de voltaje tienen las bases refrigeradoras indias?",
+        "respuesta": "La mayoría de bases refrigeradoras indias vienen con entrada dual 110-240V, lo que permite uso directo en Chile (220V). Verifica en especificaciones técnicas del producto que sea compatible antes de importar."
+      },
+      {
+        "pregunta": "¿Los ventiladores de las bases refrigeradoras generan ruido excesivo?",
+        "respuesta": "Los modelos básicos generan entre 20-30 dB de ruido. Para importación comercial, elige marcas reconocidas que especifiquen nivel de ruido. Solicita muestras antes de hacer pedidos grandes para validar calidad."
+      }
+    ]
+  },
+  {
+    "slug": "importar-aceite-cocina-palma-refinado-india-chile",
+    "producto": "Aceite de palma refinado para consumo",
+    "hs_code": "151190",
+    "origen": "India",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 6,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 450,
+    "gastos_despacho_agente_usd": 280,
+    "flete_estimado_m3_usd": 85,
+    "permisos_especiales": "Certificado de Origen, Registro Sanitario (SAG), Certificado de Análisis",
+    "seo": {
+      "titulo_h1": "Importar Aceite de Palma Refinado desde India a Chile | Distribuidor B2B",
+      "meta_description": "Guía completa para importar aceite de palma refinado de India a Chile. Aranceles, permisos sanitarios y costos logísticos actualizados.",
+      "keywords": [
+        "aceite de palma refinado",
+        "importación India Chile",
+        "aceite cocina mayorista",
+        "proveedor B2B aceite palma"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué certificados sanitarios necesito para importar aceite de palma a Chile?",
+        "respuesta": "Requiere Certificado de Origen del país productor, Registro Sanitario otorgado por el Servicio Agrícola y Ganadero (SAG), Certificado de Análisis de composición y pureza, y documentación que acredite ausencia de sustancias prohibidas."
+      },
+      {
+        "pregunta": "¿Cuál es el arancel aplicable al aceite de palma importado desde India?",
+        "respuesta": "El arancel ad valorem es del 6% según código HS 151190. Se aplica sobre el valor CIF (costo, seguros y flete) de la mercancía."
+      },
+      {
+        "pregunta": "¿Cuánto tiempo toma el despacho aduanal de aceite comestible?",
+        "respuesta": "El proceso completo de despacho aduanal toma entre 5 a 10 días hábiles, dependiendo de la verificación de documentos sanitarios y muestreo si lo requiere el SAG."
+      }
+    ]
+  },
+  {
+    "slug": "importar-galletas-bizcochos-granel-china-peru",
+    "producto": "Galletas y bizcochos empaquetados en granel",
+    "hs_code": "190531",
+    "origen": "China",
+    "destino": "Perú",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 8,
+    "iva_pct": 18,
+    "gastos_puerto_usd": 520,
+    "gastos_despacho_agente_usd": 320,
+    "flete_estimado_m3_usd": 95,
+    "permisos_especiales": "Certificado de Sanidad Exportación, Registro DIGESA, Certificado de Análisis Microbiológico",
+    "seo": {
+      "titulo_h1": "Importar Galletas y Bizcochos desde China a Perú | Mayorista B2B",
+      "meta_description": "Importación de galletas y bizcochos de China a Perú. Requisitos sanitarios, aranceles y proceso de despacho para distribuidores.",
+      "keywords": [
+        "galletas China Perú",
+        "bizcochos importación",
+        "alimentos granel mayorista",
+        "distribuidor galletas B2B"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué tipo de certificación sanitaria requiere China para galletas exportadas a Perú?",
+        "respuesta": "China debe proporcionar Certificado de Sanidad de Exportación emitido por autoridades chinas, junto con Certificado de Análisis de composición nutricional y pruebas microbiológicas que cumplan normas peruanas DIGESA."
+      },
+      {
+        "pregunta": "¿Hay restricciones sobre conservantes en galletas importadas a Perú?",
+        "respuesta": "Sí, los conservantes permitidos están regulados por DIGESA. Los productos deben cumplir con los límites máximos de aditivos establecidos en la normativa peruana, especialmente para benzoatos y sorbatos."
+      }
+    ]
+  },
+  {
+    "slug": "importar-leche-polvo-infantil-formula-eeuu-colombia",
+    "producto": "Fórmula infantil en polvo para lactantes",
+    "hs_code": "190110",
+    "origen": "Estados Unidos",
+    "destino": "Colombia",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 5,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 600,
+    "gastos_despacho_agente_usd": 350,
+    "flete_estimado_m3_usd": 110,
+    "permisos_especiales": "Registro INVIMA, Certificado FDA, Certificado de Alérgenos, Declaración de Ingredientes",
+    "seo": {
+      "titulo_h1": "Importar Fórmula Infantil en Polvo desde USA a Colombia | Distribuidor Licenciado",
+      "meta_description": "Guía de importación de fórmula infantil desde Estados Unidos a Colombia. Requisitos INVIMA, regulaciones y costos aduanales.",
+      "keywords": [
+        "fórmula infantil USA Colombia",
+        "importación leche polvo bebé",
+        "distribuidor fórmula infantil",
+        "productos lactancia importación"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es el proceso de registro ante INVIMA para fórmula infantil importada?",
+        "respuesta": "El registro ante INVIMA requiere presentar estudios de estabilidad, especificaciones técnicas, composición nutricional, certificado FDA de fabricante, y documentación de buenas prácticas de manufactura. El proceso toma entre 30 a 60 días."
+      },
+      {
+        "pregunta": "¿Necesito certificación especial para alergenos en fórmula infantil?",
+        "respuesta": "Sí, es obligatorio proporcionar Declaración de Alérgenos completa que identifique si contiene trazas de leche, gluten, soja, frutos secos u otros alérgenos comunes, según regulaciones INVIMA."
+      }
+    ]
+  },
+  {
+    "slug": "importar-agua-destilada-bidones-5-litros-china-mexico",
+    "producto": "Agua destilada en bidones de 5 litros",
+    "hs_code": "220190",
+    "origen": "China",
+    "destino": "México",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 7,
+    "iva_pct": 16,
+    "gastos_puerto_usd": 480,
+    "gastos_despacho_agente_usd": 290,
+    "flete_estimado_m3_usd": 78,
+    "permisos_especiales": "Certificado de Calidad de Agua, Registro ante COFEPRIS, Declaración de Proceso",
+    "seo": {
+      "titulo_h1": "Importar Agua Destilada en Bidones desde China a México | Mayorista",
+      "meta_description": "Importación de agua destilada en bidones desde China a México. Requisitos COFEPRIS y costos aduanales para distribuidores.",
+      "keywords": [
+        "agua destilada China México",
+        "bidones 5 litros importación",
+        "agua purificada mayorista",
+        "distribuidor agua destilada"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué certificaciones requiere COFEPRIS para agua destilada importada?",
+        "respuesta": "COFEPRIS requiere Certificado de Calidad de Agua que demuestre cumplimiento de normas NOM-127-SSA1, análisis bacteriológico, de pH, turbidez y ausencia de contaminantes según especificaciones mexicanas."
+      },
+      {
+        "pregunta": "¿El agua destilada requiere embalaje especial para importación?",
+        "respuesta": "Sí, los bidones deben cumplir normas de seguridad (preferentemente HDPE de grado alimentario), estar identificados correctamente y acompañados de documentación que certifique el material y proceso de desinfección."
+      }
+    ]
+  },
+  {
+    "slug": "importar-chocolate-cobertura-industrial-india-chile",
+    "producto": "Chocolate de cobertura para industria pastelera",
+    "hs_code": "180620",
+    "origen": "India",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 9,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 500,
+    "gastos_despacho_agente_usd": 310,
+    "flete_estimado_m3_usd": 92,
+    "permisos_especiales": "Certificado de Origen, Registro Sanitario SAG, Certificado de Análisis de Cacao",
+    "seo": {
+      "titulo_h1": "Importar Chocolate de Cobertura Industrial desde India a Chile",
+      "meta_description": "Guía de importación de chocolate de cobertura desde India a Chile. Aranceles, requisitos sanitarios y proveedores B2B.",
+      "keywords": [
+        "chocolate cobertura India Chile",
+        "chocolate industrial importación",
+        "proveedor chocolate pastelería",
+        "distribuidor cacao procesado"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué requisitos sanitarios debe cumplir chocolate de cobertura importado a Chile?",
+        "respuesta": "Debe presentar Certificado de Origen indio, Registro Sanitario ante el SAG chileno, Certificado de Análisis de composición (contenido de cacao, grasa, azúcar), y documentación que certifique ausencia de aflatoxinas y metales pesados."
+      },
+      {
+        "pregunta": "¿Necesita almacenamiento especial el chocolate de cobertura durante la importación?",
+        "respuesta": "Sí, el chocolate requiere mantener temperaturas entre 15-20°C durante el transporte y almacenamiento para evitar bloom (floración de grasa). Recomendamos contenedores con control de temperatura."
+      }
+    ]
+  },
+  {
+    "slug": "importar-cafe-grano-tostado-colombia-peru",
+    "producto": "Café en grano tostado medio",
+    "hs_code": "090111",
+    "origen": "Colombia",
+    "destino": "Perú",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 6,
+    "iva_pct": 18,
+    "gastos_puerto_usd": 420,
+    "gastos_despacho_agente_usd": 270,
+    "flete_estimado_m3_usd": 88,
+    "permisos_especiales": "Certificado de Origen (FTA), Certificado Fitosanitario, Certificado de Calidad",
+    "seo": {
+      "titulo_h1": "Importar Café Tostado desde Colombia a Perú | Distribuidor Mayorista",
+      "meta_description": "Importación de café grano tostado colombiano a Perú. Beneficio FTA, requisitos fitosanitarios y proceso aduanal.",
+      "keywords": [
+        "café Colombia Perú",
+        "café tostado importación",
+        "grano café mayorista",
+        "distribuidor café premium"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué ventajas fiscales tiene importar café colombiano a Perú bajo FTA?",
+        "respuesta": "El café colombiano importado a Perú bajo el Tratado de Libre Comercio goza de arancel preferencial del 0% en muchos casos, siempre que cuente con Certificado de Origen expedido por autoridades colombianas reconocidas."
+      },
+      {
+        "pregunta": "¿Necesito certificación adicional más allá del Certificado Fitosanitario?",
+        "respuesta": "Además del Certificado Fitosanitario colombiano, recomendamos proporcionar Certificado de Calidad que especifique origen, altitud, método de procesamiento y análisis de defectos según clasificación SCA (Specialty Coffee Association)."
+      }
+    ]
+  },
+  {
+    "slug": "importar-snacks-frutos-secos-tostados-eeuu-colombia",
+    "producto": "Snacks de frutos secos tostados y salados",
+    "hs_code": "200819",
+    "origen": "Estados Unidos",
+    "destino": "Colombia",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 10,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 550,
+    "gastos_despacho_agente_usd": 330,
+    "flete_estimado_m3_usd": 100,
+    "permisos_especiales": "Registro INVIMA, Certificado FDA, Declaración de Alérgenos, Certificado Sanitario",
+    "seo": {
+      "titulo_h1": "Importar Snacks de Frutos Secos desde USA a Colombia | B2B",
+      "meta_description": "Guía completa para importar frutos secos tostados desde Estados Unidos a Colombia. Requisitos INVIMA y arancel.",
+      "keywords": [
+        "snacks frutos secos USA Colombia",
+        "frutos tostados importación",
+        "distribuidor snacks premium",
+        "frutos secos mayorista"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cuáles son los alérgenos críticos que debo declarar en snacks de frutos secos?",
+        "respuesta": "Los alérgenos principales son frutos secos (almendras, nueces, maní), aunque algunos productos pueden contener trazas de gluten, sésamo o sulfitos. La declaración debe ser clara en empaques y documentación comercial según INVIMA."
+      },
+      {
+        "pregunta": "¿Hay diferencia arancelaria entre frutos secos crudos y tostados?",
+        "respuesta": "Sí, los frutos secos tostados/procesados (HS 200819) tienen arancel de 10%, mientras que crudos o pelados pueden tener códigos y aranceles diferentes. El procesamiento afecta la clasificación arancelaria."
+      }
+    ]
+  },
+  {
+    "slug": "importar-bebidas-energizantes-concentradas-china-mexico",
+    "producto": "Bebidas energizantes concentradas para reconstituir",
+    "hs_code": "210190",
+    "origen": "China",
+    "destino": "México",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 11,
+    "iva_pct": 16,
+    "gastos_puerto_usd": 580,
+    "gastos_despacho_agente_usd": 340,
+    "flete_estimado_m3_usd": 105,
+    "permisos_especiales": "Registro ante COFEPRIS, Certificado de Análisis, Declaración de Contenido de Cafeína, Certificado Sanitario",
+    "seo": {
+      "titulo_h1": "Importar Bebidas Energizantes Concentradas desde China a México",
+      "meta_description": "Importación de bebidas energizantes concentradas de China a México. Requisitos COFEPRIS y regulaciones de cafeína.",
+      "keywords": [
+        "bebidas energizantes China México",
+        "concentrado energético importación",
+        "distribuidor bebidas energéticas",
+        "productos energizantes mayorista"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cuáles son los límites máximos de cafeína permitidos en bebidas energizantes en México?",
+        "respuesta": "COFEPRIS establece límites máximos de cafeína según el tipo de producto y población objetivo. Para bebidas energizantes estándar, el límite típico es 320 mg/litro. Debe incluirse advertencia clara en etiqueta."
+      },
+      {
+        "pregunta": "¿Necesito presentar estudios de toxicología para ingredientes específicos?",
+        "respuesta": "Sí, si la fórmula contiene ingredientes novedosos o con potencial de riesgo sanitario (taurina, guaraná, L-carnitina), debe presentarse documentación de seguridad y estudios de biodisponibilidad según criterios COFEPRIS."
+      }
+    ]
+  },
+  {
+    "slug": "importar-productos-higiene-personal-jabon-india-peru",
+    "producto": "Jabones de tocador y higiene personal",
+    "hs_code": "340119",
+    "origen": "India",
+    "destino": "Perú",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 8,
+    "iva_pct": 18,
+    "gastos_puerto_usd": 460,
+    "gastos_despacho_agente_usd": 300,
+    "flete_estimado_m3_usd": 82,
+    "permisos_especiales": "Registro DIGESA, Certificado de Composición, Certificado Microbiológico, Documentación de Ingredientes",
+    "seo": {
+      "titulo_h1": "Importar Jabones de Higiene Personal desde India a Perú | Mayorista",
+      "meta_description": "Guía de importación de jabones para higiene personal desde India a Perú. Requisitos DIGESA y aranceles aduanales.",
+      "keywords": [
+        "jabones India Perú",
+        "higiene personal importación",
+        "distribuidor jabón mayorista",
+        "productos tocador importación"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Qué certificaciones requiere DIGESA para jabones importados?",
+        "respuesta": "DIGESA requiere Registro previo del producto, Certificado de Composición con listado detallado de ingredientes, Certificado Microbiológico que demuestre ausencia de patógenos, y documentación de Buenas Prácticas de Manufactura del fabricante."
+      },
+      {
+        "pregunta": "¿Hay restricciones sobre ingredientes antibacterianos en jabones peruanos?",
+        "respuesta": "Sí, algunos ingredientes como triclosan requieren documentación especial y aprobación previa. DIGESA mantiene lista de ingredientes permitidos/restringidos. Recomendamos verificar composición exacta antes de importar."
+      }
+    ]
+  },
+  {
+    "slug": "importar-pasta-dental-tubos-individual-china-colombia",
+    "producto": "Pasta dental en tubos individuales variados sabores",
+    "hs_code": "330730",
+    "origen": "China",
+    "destino": "Colombia",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 9,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 500,
+    "gastos_despacho_agente_usd": 310,
+    "flete_estimado_m3_usd": 90,
+    "permisos_especiales": "Registro INVIMA, Certificado de Análisis Cariostático, Certificado Microbiológico, Declaración de Fluoruro",
+    "seo": {
+      "titulo_h1": "Importar Pasta Dental en Tubos desde China a Colombia | B2B",
+      "meta_description": "Importación de pasta dental desde China a Colombia. Requisitos INVIMA, contenido de fluoruro y proceso aduanal.",
+      "keywords": [
+        "pasta dental China Colombia",
+        "dentífrico importación",
+        "distribuidor pasta dental mayorista",
+        "productos higiene bucal"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es el límite máximo de flúor permitido en pasta dental en Colombia?",
+        "respuesta": "INVIMA establece que la pasta dental no debe exceder 1500 ppm (0.15%) de flúor. Algunos productos pueden tener hasta 1450 ppm para uso adulto, pero debe indicarse claramente en la etiqueta."
+      },
+      {
+        "pregunta": "¿Necesito certificación especial si la pasta contiene aditivos blanqueadores?",
+        "respuesta": "Sí, si contiene agentes blanqueadores (peroxidasa, carbón activado), requiere estudios de seguridad adicionales y aprobación INVIMA. Los componentes activos deben estar documentados con márgenes seguros de uso."
+      }
+    ]
+  },
+  {
+    "slug": "importar-suplementos-vitaminicos-polvo-capsulas-eeuu-chile",
+    "producto": "Suplementos vitamínicos y minerales en cápsulas",
+    "hs_code": "210690",
+    "origen": "Estados Unidos",
+    "destino": "Chile",
+    "moneda": "USD",
+    "arancel_ad_valorem_pct": 6,
+    "iva_pct": 19,
+    "gastos_puerto_usd": 540,
+    "gastos_despacho_agente_usd": 330,
+    "flete_estimado_m3_usd": 98,
+    "permisos_especiales": "Registro ISP (Instituto de Salud Pública), Certificado FDA, Certificado de Análisis, Declaración de Composición Nutricional",
+    "seo": {
+      "titulo_h1": "Importar Suplementos Vitamínicos desde USA a Chile | Distribuidor Licenciado",
+      "meta_description": "Guía completa para importar suplementos vitamínicos desde Estados Unidos a Chile. Requisitos ISP y aranceles.",
+      "keywords": [
+        "suplementos vitamínicos USA Chile",
+        "vitaminas importación",
+        "distribuidor suplementos ISP",
+        "cápsulas minerales importación"
+      ]
+    },
+    "faqs": [
+      {
+        "pregunta": "¿Cuál es el proceso de registro ante el ISP chileno para suplementos?",
+        "respuesta": "El ISP requiere presentar solicitud de registro, especificación técnica del producto, Certificado FDA de fabricante, estudios de estabilidad, análisis de composición, y datos de seguridad. El proceso toma entre 60-90 días hábiles."
+      },
+      {
+        "pregunta": "¿Hay límites máximos de dosis diaria de vitaminas permitidas en Chile?",
+        "respuesta": "Sí, el ISP regula los máximos de ingesta diaria según el tipo de vitamina o mineral. Por ejemplo, vitamina A tiene límites para población general y gestantes. La etiqueta debe indicar claramente dosis recomendada."
+      }
     ]
   }
 ]

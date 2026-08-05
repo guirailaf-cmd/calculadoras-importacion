@@ -26,7 +26,7 @@ const REQUIRED_KEYS = [
 ];
 
 function parseArgs(argv) {
-	const args = { count: 10, model: 'claude-3-5-haiku-latest' };
+	const args = { count: 10, model: 'claude-haiku-4-5-20251001' };
 	for (const arg of argv) {
 		const [key, value] = arg.replace(/^--/, '').split(/=(.*)/s);
 		if (key === 'category') args.category = value;
@@ -61,7 +61,7 @@ async function main() {
 	const args = parseArgs(process.argv.slice(2));
 
 	if (!args.category) {
-		console.error('Uso: node scripts/generate_cases.mjs --category=<categoria> [--count=10] [--model=claude-3-5-haiku-latest]');
+		console.error('Uso: node scripts/generate_cases.mjs --category=<categoria> [--count=10] [--model=claude-haiku-4-5-20251001]');
 		process.exit(1);
 	}
 
