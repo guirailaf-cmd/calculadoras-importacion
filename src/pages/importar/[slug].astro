@@ -105,6 +105,7 @@ const softwareSchema = {
 					<input type="hidden" name="producto" value={caseData.producto} />
 					<input type="hidden" name="ruta" value={`${caseData.origen} → ${caseData.destino}`} />
 					<input type="hidden" name="hs_code" value={caseData.hs_code} />
+					<input type="hidden" name="lead_id" data-freight-lead-id value="" />
 					<label for="freight-nombre" class="sr-only">Nombre completo</label>
 					<input
 						type="text"
@@ -123,12 +124,39 @@ const softwareSchema = {
 						required
 						class="rounded-lg border border-slate-300 px-3 py-2 text-sm text-slate-900 shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/30"
 					/>
+					<label for="freight-telefono" class="sr-only">Teléfono</label>
+					<input
+						type="tel"
+						id="freight-telefono"
+						name="telefono"
+						placeholder="Teléfono (opcional)"
+						class="rounded-lg border border-slate-300 px-3 py-2 text-sm text-slate-900 shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/30"
+					/>
 					<label for="freight-empresa" class="sr-only">Empresa</label>
 					<input
 						type="text"
 						id="freight-empresa"
 						name="empresa"
 						placeholder="Empresa (opcional)"
+						class="rounded-lg border border-slate-300 px-3 py-2 text-sm text-slate-900 shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/30"
+					/>
+					<label for="freight-volumen" class="sr-only">Volumen aproximado de carga</label>
+					<select
+						id="freight-volumen"
+						name="volumen_carga"
+						class="rounded-lg border border-slate-300 px-3 py-2 text-sm text-slate-900 shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/30"
+					>
+						<option value="">Volumen aproximado de carga (opcional)</option>
+						<option value="Menos de 5 m³ (carga suelta / LCL)">Menos de 5 m³ (carga suelta / LCL)</option>
+						<option value="5–15 m³ (LCL)">5–15 m³ (LCL)</option>
+						<option value="1 contenedor completo (FCL)">1 contenedor completo (FCL)</option>
+						<option value="Más de 1 contenedor (FCL)">Más de 1 contenedor (FCL)</option>
+					</select>
+					<label for="freight-fecha" class="block text-xs text-slate-500">Fecha aproximada de envío (opcional)</label>
+					<input
+						type="date"
+						id="freight-fecha"
+						name="fecha_envio"
 						class="rounded-lg border border-slate-300 px-3 py-2 text-sm text-slate-900 shadow-sm focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/30"
 					/>
 					<button
@@ -138,9 +166,7 @@ const softwareSchema = {
 					>
 						Solicitar 3 presupuestos de agencias de carga
 					</button>
-					<p class="hidden text-xs font-medium text-emerald-600" data-freight-success role="status">
-						¡Listo! Recibimos tu solicitud, te contactaremos pronto con las cotizaciones.
-					</p>
+					<p class="hidden text-xs font-medium text-emerald-600" data-freight-success role="status"></p>
 					<p class="hidden text-xs font-medium text-red-600" data-freight-error role="alert">
 						Ocurrió un error al enviar tu solicitud. Intenta nuevamente.
 					</p>
@@ -153,6 +179,18 @@ const softwareSchema = {
 			const freightSubmit = freightForm?.querySelector<HTMLButtonElement>('[data-freight-submit]');
 			const freightSuccess = freightForm?.querySelector<HTMLElement>('[data-freight-success]');
 			const freightError = freightForm?.querySelector<HTMLElement>('[data-freight-error]');
+			const freightLeadId = freightForm?.querySelector<HTMLInputElement>('[data-freight-lead-id]');
+
+			function generateLeadId(): string {
+				const now = new Date();
+				const y = now.getFullYear();
+				const m = String(now.getMonth() + 1).padStart(2, '0');
+				const d = String(now.getDate()).padStart(2, '0');
+				const rand = Math.random().toString(36).slice(2, 6).toUpperCase();
+				return `LEAD-${y}${m}${d}-${rand}`;
+			}
+
+			if (freightLeadId) freightLeadId.value = generateLeadId();
 
 			freightForm?.addEventListener('submit', async (event) => {
 				event.preventDefault();
@@ -164,6 +202,8 @@ const softwareSchema = {
 				const originalLabel = freightSubmit.textContent;
 				freightSubmit.textContent = 'Enviando…';
 
+				const submittedLeadId = freightLeadId?.value ?? '';
+
 				try {
 					const response = await fetch(freightForm.action, {
 						method: 'POST',
@@ -173,6 +213,10 @@ const softwareSchema = {
 
 					if (response.ok) {
 						freightForm.reset();
+						if (freightLeadId) freightLeadId.value = generateLeadId();
+						if (freightSuccess) {
+							freightSuccess.textContent = `¡Listo! Recibimos tu solicitud (ref. ${submittedLeadId}), te contactaremos pronto con las cotizaciones.`;
+						}
 						freightSuccess?.classList.remove('hidden');
 					} else {
 						freightError?.classList.remove('hidden');
