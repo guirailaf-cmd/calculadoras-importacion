@@ -166,7 +166,17 @@ const softwareSchema = {
 					>
 						Solicitar 3 presupuestos de agencias de carga
 					</button>
-					<p class="hidden text-xs font-medium text-emerald-600" data-freight-success role="status"></p>
+					<div class="hidden flex-col items-start gap-1" data-freight-success-wrap>
+						<p class="text-xs font-medium text-emerald-600" data-freight-success role="status"></p>
+						<a
+							href="#"
+							download
+							class="text-xs font-semibold text-blue-600 underline hover:text-blue-700"
+							data-freight-download
+						>
+							Descargar resumen de tu cálculo (CSV)
+						</a>
+					</div>
 					<p class="hidden text-xs font-medium text-red-600" data-freight-error role="alert">
 						Ocurrió un error al enviar tu solicitud. Intenta nuevamente.
 					</p>
@@ -177,9 +187,55 @@ const softwareSchema = {
 		<script>
 			const freightForm = document.querySelector<HTMLFormElement>('[data-freight-form]');
 			const freightSubmit = freightForm?.querySelector<HTMLButtonElement>('[data-freight-submit]');
+			const freightSuccessWrap = freightForm?.querySelector<HTMLElement>('[data-freight-success-wrap]');
 			const freightSuccess = freightForm?.querySelector<HTMLElement>('[data-freight-success]');
+			const freightDownload = freightForm?.querySelector<HTMLAnchorElement>('[data-freight-download]');
 			const freightError = freightForm?.querySelector<HTMLElement>('[data-freight-error]');
 			const freightLeadId = freightForm?.querySelector<HTMLInputElement>('[data-freight-lead-id]');
+
+			function csvEscape(value: string): string {
+				if (/[",\n]/.test(value)) return `"${value.replace(/"/g, '""')}"`;
+				return value;
+			}
+
+			function buildCalculationSummaryCsv(leadId: string): string {
+				const calculator = document.querySelector<HTMLElement>('[data-landed-cost-calculator]');
+				const getOutput = (field: string) => calculator?.querySelector<HTMLElement>(`[data-output="${field}"]`)?.textContent?.trim() ?? '';
+				const getInput = (field: string) => calculator?.querySelector<HTMLInputElement>(`[data-field="${field}"]`)?.value ?? '';
+				const getFormValue = (name: string) => (freightForm?.elements.namedItem(name) as HTMLInputElement | HTMLSelectElement | null)?.value ?? '';
+
+				const rows: [string, string][] = [
+					['Referencia', leadId],
+					['Fecha de solicitud', new Date().toLocaleDateString('es-CL')],
+					['Producto', getFormValue('producto')],
+					['Código HS', getFormValue('hs_code')],
+					['Ruta', getFormValue('ruta')],
+					['Cantidad de unidades', getInput('units')],
+					['Precio FOB unitario (USD)', getInput('fob-price')],
+					['Volumen total (m³)', getInput('volume')],
+					['Seguro marítimo (%)', getInput('insurance-pct')],
+					['Total FOB productos', getOutput('desglose-fob')],
+					['Flete internacional estimado', getOutput('desglose-flete')],
+					['Seguro CIF', getOutput('desglose-seguro')],
+					['Impuesto Ad Valorem', getOutput('desglose-ad-valorem')],
+					['IVA importación', getOutput('desglose-iva')],
+					['Gastos destino (puerto + agente)', getOutput('desglose-gastos-destino')],
+					['Costo total de la importación', getOutput('landed-cost-total')],
+					['Costo unitario puesto en bodega', getOutput('landed-cost-unitario')],
+					['Precio de venta mínimo sugerido', getOutput('precio-venta-sugerido')],
+					['Nombre', getFormValue('nombre')],
+					['Empresa', getFormValue('empresa')],
+					['Email', getFormValue('email')],
+					['Teléfono', getFormValue('telefono')],
+					['Volumen de carga', getFormValue('volumen_carga')],
+					['Fecha aproximada de envío', getFormValue('fecha_envio')],
+				];
+
+				const bom = String.fromCharCode(0xfeff);
+				const header = 'Campo,Valor';
+				const body = rows.map(([label, value]) => `${csvEscape(label)},${csvEscape(value)}`).join('\n');
+				return `${bom}${header}\n${body}\n`;
+			}
 
 			function generateLeadId(): string {
 				const now = new Date();
@@ -196,13 +252,15 @@ const softwareSchema = {
 				event.preventDefault();
 				if (!freightSubmit) return;
 
-				freightSuccess?.classList.add('hidden');
+				freightSuccessWrap?.classList.add('hidden');
+				freightSuccessWrap?.classList.remove('flex');
 				freightError?.classList.add('hidden');
 				freightSubmit.disabled = true;
 				const originalLabel = freightSubmit.textContent;
 				freightSubmit.textContent = 'Enviando…';
 
 				const submittedLeadId = freightLeadId?.value ?? '';
+				const csvContent = buildCalculationSummaryCsv(submittedLeadId);
 
 				try {
 					const response = await fetch(freightForm.action, {
@@ -217,7 +275,13 @@ const softwareSchema = {
 						if (freightSuccess) {
 							freightSuccess.textContent = `¡Listo! Recibimos tu solicitud (ref. ${submittedLeadId}), te contactaremos pronto con las cotizaciones.`;
 						}
-						freightSuccess?.classList.remove('hidden');
+						if (freightDownload) {
+							const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+							freightDownload.href = URL.createObjectURL(blob);
+							freightDownload.download = `landed-cost-${submittedLeadId}.csv`;
+						}
+						freightSuccessWrap?.classList.remove('hidden');
+						freightSuccessWrap?.classList.add('flex');
 					} else {
 						freightError?.classList.remove('hidden');
 					}
