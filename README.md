@@ -41,3 +41,14 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+## 🎬 Edición de videos con Remotion
+
+El proyecto incluye una app independiente de [Remotion](https://www.remotion.dev/) en `remotion/` para crear y editar videos con React/TypeScript. Es un proyecto separado del sitio Astro, con su propio `package.json`.
+
+```sh
+cd remotion
+npm install
+npm run dev      # abre Remotion Studio (editor de videos)
+npx remotion render  # renderiza un video a partir de una composición
+```
